@@ -3,6 +3,7 @@ layout: ../../../layouts/post.astro
 title: Lakshadweep Dive Trip, 2024
 description: Reflecting on an amazing scuba diving trip to the Lakshadweep Islands with four of my dear friends, I am filled with gratitude for the experiences we shared. From our first dive to the stunning sunsets, each moment was a treasure. Here’s a glimpse into our adventure—filled with laughter, exploration, and unforgettable memories.
 dateFormatted: Nov 05, 2024
+category: travel
 ---
 
 ## Day 1: ✈️ Journey to Agatti Island and Our First Dive 🤿
