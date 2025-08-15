@@ -1,4 +1,5 @@
 ---
+import educations from "../collections/educations.json";
 import experiences from "../collections/experiences.json";
 import AboutExperience from "../components/about-experience.astro";
 import PageHeading from "../components/page-heading.astro";
@@ -7,26 +8,23 @@ import Layout from "../layouts/main.astro";
 
 <Layout title="About Me">
   <section class="relative z-20 max-w-2xl mx-auto my-12 px-7 lg:px-0">
-    <PageHeading
-      title="About Me"
-      description="Hello 👋"
-    />
-
-    <img src="/assets/images/about.jpg" class="relative z-30 w-full my-10 rounded-xl" />
+    <PageHeading title="About Me" />
 
     <h2 class="mb-2 text-2xl font-bold dark:text-neutral-200">Short Bio</h2>
     <p
       class="text-sm leading-6 text-gray-600 dark:text-neutral-400 sm:leading-7 lg:leading-8 sm:text-base lg:text-lg"
     >
-      <!-- TODO -->
+      My journey in tech is defined by continuous learning and a passion for driving results. From my foundations at IIIT, Bengaluru 👨🏽‍🎓 to my current role at slice (a FinTech Unicorn 🦄), I've consistently sought ways to optimize processes, improve experiences, and deliver tangible value within the dynamic FinTech space.
+
+      Outside the office, I channel my adventurous spirit into scuba diving 🤿 and thrill-seeking rides 🏍️. That same boldness fuels my approach to code – I'm not afraid to think outside the box and find creative solutions.
     </p>
 
     <h2
       class="mt-5 mb-2 text-2xl font-bold lg:mt-10 sm:mt-6 dark:text-neutral-200"
     >
-      Experience
+      Work Experience
     </h2>
-    <div class="px-5 py-10">
+    <div class="px-5 py-5">
       {
         experiences.map((experience) => {
           return (
@@ -43,11 +41,34 @@ import Layout from "../layouts/main.astro";
         })
       }
     </div>
+    
+    <h2
+      class="mt-5 mb-2 text-2xl font-bold lg:mt-10 sm:mt-6 dark:text-neutral-200"
+    >
+      Education
+    </h2>
+    <div class="px-5 py-5">
+      {
+        educations.map((education) => {
+          return (
+            <div class="pb-10 border-l border-gray-200 last:border-l-0 dark:border-neutral-700">
+              <AboutExperience
+                dates={education.dates}
+                role={education.role}
+                company={education.company}
+                description={education.description}
+                logo={education.logo}
+              />
+            </div>
+          )
+        })
+      }
+    </div>
 
-    <h2 class="mt-5 mb-2 text-2xl font-bold lg:mt-10 sm:mt-6 dark:text-neutral-200">Let's Connect!</h2>
+    <!-- <h2 class="mt-5 mb-2 text-2xl font-bold lg:mt-10 sm:mt-6 dark:text-neutral-200">Let's Connect!</h2>
     <p
       class="text-sm leading-6 text-gray-600 dark:text-neutral-400 sm:leading-7 lg:leading-8 sm:text-base lg:text-lg"
     >
-    </p>
+    </p> -->
   </section>
 </Layout>

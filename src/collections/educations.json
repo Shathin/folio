@@ -1,0 +1,16 @@
+[
+  {
+    "logo": "/assets/images/education/iiitb-logo.png",
+    "company": "IIIT, Bengaluru",
+    "dates": "Aug 2020 · Jul 2022 · 2 years",
+    "role": "M.Tech in Computer Science",
+    "description": "Took up courses that helped advance my Developer game - Linux & Shell Scripting, DevOps - end to end CI/CD; , Computer Networking, WANs & SDN; Data Visualization. Also worked as Developer in a project built in-house by multiple students & PhD candidates. "
+  },
+  {
+    "logo": "/assets/images/education/sjbit-logo.png",
+    "company": "slice",
+    "dates": "2015 · 2019 · 4 years",
+    "role": "B.E in Information Science",
+    "description": "First step into the field of Computer Science :: Learnt about different facets of the field - Data Structures & Algorithms, Programming Languages (C/C++, Java, Python, etc), Computer Networking, Web Development, Operating Systems, etc."
+  }
+]

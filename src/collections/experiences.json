@@ -1,3 +1,37 @@
 [
-
+  {
+    "logo": "/assets/images/experiences/slice-logo.png",
+    "company": "slice",
+    "dates": "Jul 2023 · Present · 2+ years",
+    "role": "Backend Developer · SDE-2",
+    "description": "Node.js · TypeScript · NestJS · MongoDB · PostgreSQL · Amazon Web Services (AWS) · Kubernetes · Grafana · PromQL · Team Leadership · Documentation · Kafka · GitHub Actions · Docker · Amazon Dynamodb"
+  },
+  {
+    "logo": "/assets/images/experiences/slice-logo.png",
+    "company": "slice",
+    "dates": "Jul 2022 · Jun 2023 · 1 year",
+    "role": "Full Stack Developer · SDE-1",
+    "description": "React.js · Node.js · TypeScript · NestJS · Amazon Web Services (AWS) · MongoDB · Elasticsearch · APM · Kafka · gRPC · Docker"
+  },
+  {
+    "logo": "/assets/images/experiences/slice-logo.png",
+    "company": "slice",
+    "dates": "Jan 2022 · Jun 2022 · 6 months",
+    "role": "Full Stack Developer · Intern",
+    "description": "React.js · Node.js · MongoDB · Amazon Web Services (AWS) · JavaScript"
+  },
+  {
+    "logo": "/assets/images/experiences/slice-logo.png",
+    "company": "slice",
+    "dates": "Aug 2021 · Dec 2021 · 5 months",
+    "role": "Full Stack Developer · Tech Consultant (Part-time)",
+    "description": "React.js · Node.js · MongoDB · JavaScript"
+  },
+  {
+    "logo": "/assets/images/experiences/eitan-logo.png",
+    "company": "Eitan Software Labs LLP",
+    "dates": "Jan 2019 · Feb 2019 · 1 month",
+    "role": "Android Developer · Intern",
+    "description": "Firebase · Android Development."
+  }
 ]
