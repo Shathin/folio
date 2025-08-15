@@ -1,5 +1,7 @@
 ---
 import { getCollection } from "astro:content";
+import type { CollectionEntry } from "astro:content";
+
 const allPosts = await getCollection("post");
 
 const { count } = Astro.props;
@@ -10,7 +12,7 @@ function parseDate(dateStr: string) {
 }
 
 const sortedPosts = allPosts
-  .map((post) => ({
+  .map((post: CollectionEntry<"post">) => ({
     ...post,
     date: parseDate(post.data.dateFormatted),
   }))
