@@ -173,4 +173,7 @@ After all that walking, we wrapped up the day with dinner again at Casa Asia’s
   </figcaption>
 </figure>
 
-<p style="text-align:right"><a href="bali-family-vacation-2025-day-3-4">Checkout our journey on Day 3 and 4 to Nusa Penida →</a></p>
+<p style="text-align:right">
+    <a href="bali-family-vacation-2025">⌂ Blog Start</a> / 
+    <a href="bali-family-vacation-2025-day-3-4">Checkout our journey on Day 3 and 4 in Bali →</a>
+</p>
