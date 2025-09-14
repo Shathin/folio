@@ -19,5 +19,5 @@ isSubPage: true
 
 <p style="text-align:right">
     <a href="bali-family-vacation-2025">⌂ Blog Start</a> / 
-    <a href="bali-family-vacation-2025-day-5-6">Checkout our journey on Day 9, 10 & 11 in Bali →</a>
+    <a href="bali-family-vacation-2025-day-9-10-11">Checkout our journey on Day 9, 10 & 11 in Bali →</a>
 </p>
