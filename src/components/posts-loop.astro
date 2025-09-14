@@ -16,7 +16,7 @@ const sortedPosts = allPosts
     ...post,
     date: parseDate(post.data.dateFormatted),
   }))
-  .sort((a, b) => b.date.getTime() - a.date.getTime());
+  .sort((a, b) => b.date.getTime() - a.date.getTime()).filter((post) => !post.data.isSubPage);
 
 const postsLoop = sortedPosts.slice(0, count).map((post) => {
   return {

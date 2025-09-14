@@ -7,6 +7,7 @@ const postCollection = defineCollection({
     description: z.string(),
     dateFormatted: z.string(),
     category: z.string(),
+    isSubPage: z.boolean(),
   }),
 });
 
