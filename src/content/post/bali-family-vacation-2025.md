@@ -15,7 +15,7 @@ Each day had its own rhythm: from temples and monuments to island hopping, from 
 
 Here’s the journey, broken down day by day:
 
-1. [**Day 1 & 2 – Arrival in Bali & Exploring South Bali**](bali-family-vacation-2025-day-1-2)
+1. [**Day 1 & 2 – Travel to Bali, Sightseeing in Uluwatu, Denpasar & South Kuta**](bali-family-vacation-2025-day-1-2)
 2. [**Day 3 & 4 – Nusa Penida: Island Sights, AOWD Certification & Mantas**](bali-family-vacation-2025-day-3-4)
 3. [**Day 5 & 6 – Karangasem & Garden Strolls**](bali-family-vacation-2025-day-5-6)
 4. [**Day 7 & 8 – Diving at Tulamben & Amed (My 50th Dive!)**](bali-family-vacation-2025-day-7-8)
