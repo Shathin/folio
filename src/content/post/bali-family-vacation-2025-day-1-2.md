@@ -2,7 +2,7 @@
 layout: ../../layouts/post.astro
 title: "Day 1 & 2 : Travel to Bali, Sightseeing in Uluwatu, Denpasar & South Kuta"
 description: Journey for days 1 and 2
-dateFormatted: Aug 20, 2025
+dateFormatted: Sept 21, 2025
 category: travel
 isSubPage: true
 ---

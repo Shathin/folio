@@ -2,7 +2,7 @@
 layout: ../../layouts/post.astro
 title: Bali Family Vacation, 2025
 description: This is a journal entry describing my first international vacation with my mom and two aunts. It's a mix of simple sightseeing and my favorite activity - scuba diving! 🤿
-dateFormatted: Aug 20, 2025
+dateFormatted: Sept 21, 2025
 category: travel
 isSubPage: false
 ---

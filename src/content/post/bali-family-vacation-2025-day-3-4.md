@@ -1,8 +1,8 @@
 ---
 layout: ../../layouts/post.astro
 title: "Day 3 & 4 - Nusa Penida: Island Sights, AOWD Certification & Mantas"
-description: Day 2
-dateFormatted: Aug 20, 2025
+description: Journey for days 3 and 4
+dateFormatted: Sept 21, 2025
 category: travel
 isSubPage: true
 ---
