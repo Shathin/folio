@@ -7,7 +7,7 @@ category: travel
 isSubPage: true
 ---
 
-[⌂ Blog Start](bali-family-vacation-2025) / [← Checkout our journey on Day 7 & 8 in Bali](bali-family-vacation-2025-day-7-8)
+[⌂ Blog Start](/post/bali-family-vacation-2025) / [← Checkout our journey on Day 7 & 8 in Bali](/post/bali-family-vacation-2025-day-7-8)
 
 ## Day 9 - Saturday, Jun 21st : Bali Bird Park
 
@@ -22,6 +22,6 @@ isSubPage: true
 ⚠️ Work in progress ⚠️
 
 <p style="text-align:right">
-    <a href="bali-family-vacation-2025">⌂ Blog Start</a> / 
-    <a href="bali-family-vacation-2025-details">Expense Details & Learning →</a>
+    <a href="/post/bali-family-vacation-2025">⌂ Blog Start</a> / 
+    <a href="/post/bali-family-vacation-2025-details">Expense Details & Learning →</a>
 </p>

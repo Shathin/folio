@@ -7,6 +7,6 @@ category: travel
 isSubPage: true
 ---
 
-[⌂ Blog Start](bali-family-vacation-2025)
+[⌂ Blog Start](/post/bali-family-vacation-2025)
 
 ⚠️ Work in progress ⚠️

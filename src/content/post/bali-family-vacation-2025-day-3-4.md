@@ -7,7 +7,7 @@ category: travel
 isSubPage: true
 ---
 
-[⌂ Blog Start](bali-family-vacation-2025) / [← Checkout our journey on Day 1 & 2 in Bali](bali-family-vacation-2025-day-1-2)
+[⌂ Blog Start](/post/bali-family-vacation-2025) / [← Checkout our journey on Day 1 & 2 in Bali](/post/bali-family-vacation-2025-day-1-2)
 
 ## Day 3 - Cliffs, Beaches & Hidden Gems of Nusa Penida
 
@@ -187,6 +187,6 @@ Our stay for the night was at **[The Forty Eight Resort, Candidasa](https://maps
 </figure>
 
 <p style="text-align:right">
-    <a href="bali-family-vacation-2025">⌂ Blog Start</a> / 
-    <a href="bali-family-vacation-2025-day-5-6">Checkout our journey on Day 5 & 6 in Bali →</a>
+    <a href="/post/bali-family-vacation-2025">⌂ Blog Start</a> / 
+    <a href="/post/bali-family-vacation-2025-day-5-6">Checkout our journey on Day 5 & 6 in Bali →</a>
 </p>

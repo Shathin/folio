@@ -7,7 +7,7 @@ category: travel
 isSubPage: true
 ---
 
-[⌂ Blog Home](bali-family-vacation-2025)
+[⌂ Blog Home](/post/bali-family-vacation-2025)
 
 ## Day 1 - Travel to Bali and Visiting the Uluwatu Temple
 
@@ -174,6 +174,6 @@ After all that walking, we wrapped up the day with dinner again at Casa Asia’s
 </figure>
 
 <p style="text-align:right">
-    <a href="bali-family-vacation-2025">⌂ Blog Start</a> / 
-    <a href="bali-family-vacation-2025-day-3-4">Checkout our journey on Day 3 and 4 in Bali →</a>
+    <a href="/post/bali-family-vacation-2025">⌂ Blog Start</a> / 
+    <a href="/post/bali-family-vacation-2025-day-3-4">Checkout our journey on Day 3 and 4 in Bali →</a>
 </p>

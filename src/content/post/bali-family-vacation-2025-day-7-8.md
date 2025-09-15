@@ -7,7 +7,7 @@ category: travel
 isSubPage: true
 ---
 
-[⌂ Blog Start](bali-family-vacation-2025) / [← Checkout our journey on Day 5 & 6 in Bali](bali-family-vacation-2025-day-5-6)
+[⌂ Blog Start](/post/bali-family-vacation-2025) / [← Checkout our journey on Day 5 & 6 in Bali](/post/bali-family-vacation-2025-day-5-6)
 
 ## Day 7 - Thursday, Jun 19th : Back to Diving, let's go!
 
@@ -18,6 +18,6 @@ isSubPage: true
 ⚠️ Work in progress ⚠️
 
 <p style="text-align:right">
-    <a href="bali-family-vacation-2025">⌂ Blog Start</a> / 
-    <a href="bali-family-vacation-2025-day-9-10-11">Checkout our journey on Day 9, 10 & 11 in Bali →</a>
+    <a href="/post/bali-family-vacation-2025">⌂ Blog Start</a> / 
+    <a href="/post/bali-family-vacation-2025-day-9-10-11">Checkout our journey on Day 9, 10 & 11 in Bali →</a>
 </p>
