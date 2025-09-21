@@ -150,7 +150,16 @@ After the dive, we stopped at a local warung for lunch, where I had one of the b
 
 Back at the dive shop, I completed my quick exam for the EAN40 course—passed with just one mistake 😂 — and officially got certified. With 44 dives complete and multiple previous courses, this also meant I was automatically awarded my **Advanced Open Water Diver** certification. A milestone achieved!
 
-Meanwhile, my family had a slower, more relaxed day. After breakfast at Kulkul Bungalow, they checked out around 10:30 and visited **[Goa Giri Putri Temple](https://maps.app.goo.gl/o4RztSXCZSY3i8kx7)**, a unique temple inside a cave. To enter, they had to squeeze through a small hole, but inside, the atmosphere was serene and spiritual. They couldn’t stay too long due to the low-oxygen environment, but they enjoyed the visit.
+Meanwhile, my family had a slower, more relaxed day. After breakfast at Kulkul Bungalow, they checked out around 10:30 and visited a small beach named **Bubu Beach** along the way to **[Goa Giri Putri Temple](https://maps.app.goo.gl/o4RztSXCZSY3i8kx7)**.
+
+<figure class="flex flex-col items-center mx-auto">
+  <img src="/assets/images/posts/bali-family-vacation-2025/day-3-4/3_14.png" />
+  <figcaption class="text-center text-sm text-gray-600 dark:text-gray-400 mt-2">
+    The girl gang
+  </figcaption>
+</figure>
+
+Goa Giri Putri Temple is a unique temple inside a cave. To enter, they had to squeeze through a small hole, but inside, the atmosphere was serene and spiritual. They couldn’t stay too long due to the low-oxygen environment, but they enjoyed the visit.
 
 <figure class="flex flex-col items-center mx-auto">
   <img src="/assets/images/posts/bali-family-vacation-2025/day-3-4/3_15.jpg" />
@@ -182,7 +191,7 @@ Our stay for the night was at **[The Forty Eight Resort, Candidasa](https://maps
 <figure class="flex flex-col items-center mx-auto">
   <img src="/assets/images/posts/bali-family-vacation-2025/day-3-4/3_18.png" />
   <figcaption class="text-center text-sm text-gray-600 dark:text-gray-400 mt-2">
-    Private Pool
+    Private Pool in front of our room
   </figcaption>
 </figure>
 
