@@ -25,3 +25,6 @@ pnpm-debug.log*
 
 # Ignore source .mov files used for gif creation
 **/*.mov
+
+# Ignore source .heic images that can't be rendered
+**/*.heic
