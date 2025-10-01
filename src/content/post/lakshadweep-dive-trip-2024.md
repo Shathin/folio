@@ -128,7 +128,7 @@ Since our dives wrapped up by midday, we spent a relaxing afternoon at our stay.
 
 But the surprises didn’t end there! As we wrapped up the evening, Lakshadweep had one last gift for us—a sea turtle had nested near the dive shop, and that night, her eggs hatched! Tiny baby turtles emerged, instinctively scrambling toward the sea. All of us divers gathered to help guide these precious little creatures safely to the water, and over the course of the night, we likely helped 30 to 40 of them begin their journey to the ocean.
 
-<figure class="flex flex-col items-center mx-auto">
+<figure class="flex flex-col items-center mx-auto md:w-1/2">
   <img src="/assets/images/posts/lakshadweep-dive-trip-2024/lak-day-4-5.gif" />
   <figcaption class="text-center text-sm text-gray-600 dark:text-gray-400 mt-2">
     Baby sea turtles
@@ -145,7 +145,7 @@ On the first dive, I had a special moment spotting an octopus tucked away, exper
 
 Our second dive was filled with rays—an unforgettable experience. We came across two large stingrays nestled in the sand, their bodies half-buried and blending into the ocean floor. They quickly glided away as we drew closer, but we soon found a tiny stingray lying hidden under the sand, sound asleep and unbothered by our presence. The baby ray stayed perfectly still as we watched, offering a sweet, peaceful moment that felt like the perfect ending to our underwater adventure. Among the highlights, I spotted an octopus once again—this time, I and three other divers were lucky enough to catch a glimpse of it in its vibrant colors. The excitement didn’t end there; I also got to see the Goby Fish and Pistol Shrimp duo again, a delightful reminder of the unique bond between these two species as they scuttled about, always looking out for one another. With the last dive wrapping up, we took time to capture photos of ourselves underwater in the dive gear, commemorating every amazing memory we had made over the past few days. With heavy hearts, we surfaced and climbed back onto the boat, knowing our final dive had come to an end.
 
-<figure class="flex flex-col items-center mx-auto">
+<figure class="flex flex-col items-center mx-auto md:w-3/4">
   <img src="/assets/images/posts/lakshadweep-dive-trip-2024/lak-day-5-1.gif" />
   <figcaption class="text-center text-sm text-gray-600 dark:text-gray-400 mt-2">
     Sting Ray
@@ -172,7 +172,7 @@ However, we still had another full day on the island to enjoy! Back at our stay,
 
 ## Day 6 - No Fly Day and the Most Beautiful Sunset 🌅
 
-<figure class="flex flex-col items-center mx-auto">
+<figure class="flex flex-col items-center mx-auto md:w-3/4">
   <img src="/assets/images/posts/lakshadweep-dive-trip-2024/lak-day-6-1.png" />
   <figcaption class="text-center text-sm text-gray-600 dark:text-gray-400 mt-2">
     Back of the Dive Boat - Nujoomul Armaan
