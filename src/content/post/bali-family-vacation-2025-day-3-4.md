@@ -15,7 +15,7 @@ _Date: Sunday, Jun 15, 2025_
 
 After a good night's rest, we woke up and freshened up. We had to check out early from our hotel, Casa Asia, as we had a speedboat to Nusa Penida departing at 08:00. Since our stay was about 1–1.5 hours away from Sanur Port, we checked out by 06:30. As usual, Kusuma—our driver—was right on time! Saying goodbye to a wonderful stay at Casa Asia, we headed towards Nusa Penida.
 
-<figure class="flex flex-col items-center mx-auto">
+<figure class="flex flex-col items-center mx-auto md:w-3/4">
   <img src="/assets/images/posts/bali-family-vacation-2025/day-3-4/3_1.png" />
   <figcaption class="text-center text-sm text-gray-600 dark:text-gray-400 mt-2">
     A selfie at Casa Asia
@@ -35,7 +35,7 @@ Nusa Penida felt very different compared to mainland Bali—it seemed less devel
 
 Alit, a local driver, was waiting to pick us up. After paying a small entrance fee to the island, we headed to our first stop: **[Kelingking Beach](https://maps.app.goo.gl/7HUjs7ruaj23Bumj7)**.
 
-<figure class="flex flex-col items-center mx-auto">
+<figure class="flex flex-col items-center mx-auto md:w-3/4">
   <img src="/assets/images/posts/bali-family-vacation-2025/day-3-4/3_3.png" />
   <figcaption class="text-center text-sm text-gray-600 dark:text-gray-400 mt-2">
     Kelingking Beach - View from the Top
@@ -53,7 +53,7 @@ The main attraction for most visitors is the viewpoint at the top, where people 
   </figcaption>
 </figure>
 
-<figure class="flex flex-col items-center mx-auto">
+<figure class="flex flex-col items-center mx-auto md:w-3/4">
   <img src="/assets/images/posts/bali-family-vacation-2025/day-3-4/3_5.png" />
   <figcaption class="text-center text-sm text-gray-600 dark:text-gray-400 mt-2">
     Trek down to the Beach
@@ -64,7 +64,7 @@ After resting a bit at the top, we decided to grab lunch since everyone was hung
 
 On our walk to Broken Beach, we spotted a very friendly, cute cat—and of course, it would’ve been a crime not to stop and pet it! So my mum and I spent a few minutes playing with it before continuing to the viewpoint.
 
-<figure class="flex flex-col items-center mx-auto">
+<figure class="flex flex-col items-center mx-auto md:w-3/4">
   <img src="/assets/images/posts/bali-family-vacation-2025/day-3-4/3_6.png" />
   <figcaption class="text-center text-sm text-gray-600 dark:text-gray-400 mt-2">
     🐈
@@ -73,7 +73,7 @@ On our walk to Broken Beach, we spotted a very friendly, cute cat—and of cours
 
 Broken Beach (Pasih Uug) is a natural rock arch overlooking the ocean. Instead of a typical sandy beach, it’s a large circular cove where the sea has eroded the rock, creating a giant natural pool that connects to the ocean through a stone archway. It’s a striking sight, with waves constantly crashing through the arch. Right next to it is Angel’s Billabong, a natural infinity pool formed by tide pools on the rocky cliffs. When the tide is low and conditions are safe, you can even wade in and enjoy the crystal-clear water, though visitors are strongly advised to be cautious as sudden waves can be dangerous.
 
-<figure class="flex flex-col items-center mx-auto">
+<figure class="flex flex-col items-center mx-auto md:w-3/4">
   <img src="/assets/images/posts/bali-family-vacation-2025/day-3-4/3_7.png" />
   <figcaption class="text-center text-sm text-gray-600 dark:text-gray-400 mt-2">
     Broken Beach
@@ -91,7 +91,7 @@ The rocks here were jagged and sharp from years of erosion, so we had to be care
 
 Finally, we made our way to our stay for the night: **[Kulkul Bungalow, Nusa Penida](https://maps.app.goo.gl/3uzCoQNoJgxnGAZ98)**. Nestled away from the main road, it was peaceful and quiet, with a small pool where I spent the evening unwinding. After a tiring day of trekking and walking under the hot sun, it felt so good to relax in the water, doing absolutely nothing—no phone, no distractions, just calm. It made me realize how important it is to spend more time doing “nothing” every once in a while.
 
-<figure class="flex flex-col items-center mx-auto">
+<figure class="flex flex-col items-center mx-auto md:w-3/4">
   <img src="/assets/images/posts/bali-family-vacation-2025/day-3-4/3_10.png" />
   <figcaption class="text-center text-sm text-gray-600 dark:text-gray-400 mt-2">
     Pool at Kulkul Bungalow
@@ -100,7 +100,7 @@ Finally, we made our way to our stay for the night: **[Kulkul Bungalow, Nusa Pen
 
 For dinner, my mum and I tried **[Vegan Soul Cafe](https://maps.app.goo.gl/fqy17nzTMTXLk33a6)** nearby. It was a bit pricey, but the portions were generous and the food delicious. We ended up ordering more than we could finish, assuming portion sizes would be small like in the rest of Bali—but we were wrong!
 
-<figure class="flex flex-col items-center mx-auto">
+<figure class="flex flex-col items-center mx-auto md:w-3/4">
   <img src="/assets/images/posts/bali-family-vacation-2025/day-3-4/3_11.png" />
   <figcaption class="text-center text-sm text-gray-600 dark:text-gray-400 mt-2">
     Food at Vegan Soul Cafe
@@ -109,7 +109,7 @@ For dinner, my mum and I tried **[Vegan Soul Cafe](https://maps.app.goo.gl/fqy17
 
 Stuffed and satisfied, we headed back for a good night’s sleep. Tomorrow was the day I had been waiting for—Scuba Diving!
 
-<figure class="flex flex-col items-center mx-auto">
+<figure class="flex flex-col items-center mx-auto md:w-3/4">
   <img src="/assets/images/posts/bali-family-vacation-2025/day-3-4/3_9.png" />
   <figcaption class="text-center text-sm text-gray-600 dark:text-gray-400 mt-2">
     Kulkul Bungalow Garden Area
@@ -152,7 +152,7 @@ Back at the dive shop, I completed my quick exam for the EAN40 course—passed w
 
 Meanwhile, my family had a slower, more relaxed day. After breakfast at Kulkul Bungalow, they checked out around 10:30 and visited a small beach named **Bubu Beach** along the way to **[Goa Giri Putri Temple](https://maps.app.goo.gl/o4RztSXCZSY3i8kx7)**.
 
-<figure class="flex flex-col items-center mx-auto">
+<figure class="flex flex-col items-center mx-auto md:w-3/4">
   <img src="/assets/images/posts/bali-family-vacation-2025/day-3-4/3_14.png" />
   <figcaption class="text-center text-sm text-gray-600 dark:text-gray-400 mt-2">
     The girl gang
@@ -170,7 +170,7 @@ Goa Giri Putri Temple is a unique temple inside a cave. To enter, they had to sq
 
 Afterwards, they headed to **[The Chill Penida](https://maps.app.goo.gl/uRBSvwKqdAsRNDKn6)**, a restaurant where they relaxed and waited for me to finish diving.
 
-<figure class="flex flex-col items-center mx-auto">
+<figure class="flex flex-col items-center mx-auto md:w-3/4">
   <img src="/assets/images/posts/bali-family-vacation-2025/day-3-4/3_16.jpg" />
   <figcaption class="text-center text-sm text-gray-600 dark:text-gray-400 mt-2">
     At The Chill

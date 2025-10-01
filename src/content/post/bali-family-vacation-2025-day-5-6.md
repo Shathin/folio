@@ -84,16 +84,30 @@ By evening, we began our drive toward **Danau Batur Lake** in Kintamani, where o
 
 We stopped for dinner at another branch of Shere Punjab before finally reaching our stay – **[Surya Camp Buahan, Kintamani](https://maps.app.goo.gl/Tw2NSUA8eV5NScwZ8)**. The glamping-style tents had proper beds and attached bathrooms, and the cold mountain air meant hoodies and quilts were a must. It was too dark to see the surroundings at night, so we tucked ourselves in early, saving our energy for the next big day.
 
+<figure class="flex flex-col items-center mx-auto">
+  <img src="/assets/images/posts/bali-family-vacation-2025/day-5-6/5_9.png" />
+  <figcaption class="text-center text-sm text-gray-600 dark:text-gray-400 mt-2">
+    Inside of our Tent at Surya Camp Buahan
+  </figcaption>
+</figure>
+
 ---
 
 ## Day 6 – Garden Trails, Bridges & Mountain Views
 
 _Date: Wednesday, Jun 18, 2025_
 
+<figure class="flex flex-col items-center mx-auto md:w-3/4">
+  <img src="/assets/images/posts/bali-family-vacation-2025/day-5-6/6_1.png" />
+  <figcaption class="text-center text-sm text-gray-600 dark:text-gray-400 mt-2">
+    Our Tent at Surya Camp Buahan
+  </figcaption>
+</figure>
+
 That night in Kintamani was our only stay in Bali without AC – and we didn’t need it! The chill had me bundled up in a hoodie and quilt, but it was one of the coziest sleeps of the trip. When I woke up, the view outside was absolutely breathtaking: the sun slowly rising behind Mount Batur, with its reflection shimmering across Danau Batur Lake. Definitely one of my favorite moments of the trip.
 
 <figure class="flex flex-col items-center mx-auto">
-  <img src="/assets/images/posts/bali-family-vacation-2025/day-5-6/5_9.png" />
+  <img src="/assets/images/posts/bali-family-vacation-2025/day-5-6/6_2.png" />
   <figcaption class="text-center text-sm text-gray-600 dark:text-gray-400 mt-2">
     Mount Batur and Danau Batur
   </figcaption>
@@ -102,7 +116,7 @@ That night in Kintamani was our only stay in Bali without AC – and we didn’t
 Our hosts served us a simple breakfast of **Mi Goreng Sayur**, and honestly, it was the best one I had in Bali. After that satisfying start, we packed up and began the day’s explorations.
 
 <figure class="flex flex-col items-center mx-auto">
-  <img src="/assets/images/posts/bali-family-vacation-2025/day-5-6/6_1.png" />
+  <img src="/assets/images/posts/bali-family-vacation-2025/day-5-6/6_3.png" />
   <figcaption class="text-center text-sm text-gray-600 dark:text-gray-400 mt-2">
     Bloom's Garden
   </figcaption>
@@ -111,14 +125,14 @@ Our hosts served us a simple breakfast of **Mi Goreng Sayur**, and honestly, it 
 After a long but traffic-free drive (~2 hours), we arrived at **[The Blooms Garden](https://maps.app.goo.gl/mMAGFirChaeXcPYWA)** – a beautifully landscaped park filled with vibrant flowerbeds, shaped topiaries, and Instagram-perfect corners. Opened in 2019, it was designed as both a leisure park and eco-tourism spot, set against the backdrop of Bedugul’s mountains. We spent over an hour strolling and snapping endless “flowery” photos.
 
 <figure class="flex flex-col items-center mx-auto">
-  <img src="/assets/images/posts/bali-family-vacation-2025/day-5-6/6_2.png" />
+  <img src="/assets/images/posts/bali-family-vacation-2025/day-5-6/6_4.png" />
   <figcaption class="text-center text-sm text-gray-600 dark:text-gray-400 mt-2">
     A groupfie at Bloom's Garden
   </figcaption>
 </figure>
 
 <figure class="flex flex-col items-center mx-auto">
-  <img src="/assets/images/posts/bali-family-vacation-2025/day-5-6/6_3.png" />
+  <img src="/assets/images/posts/bali-family-vacation-2025/day-5-6/6_5.png" />
   <figcaption class="text-center text-sm text-gray-600 dark:text-gray-400 mt-2">
     The Peacock Statue
   </figcaption>
@@ -127,36 +141,36 @@ After a long but traffic-free drive (~2 hours), we arrived at **[The Blooms Gard
 We spent a little over an hour roaming the grounds, looking at the different flora planted across the area — it’s a pretty nice place to spend some time. After that hour of walking everyone was a bit famished, and since our next stop, The **[Ulun Danu Beratan Temple](https://maps.app.goo.gl/BQJXZHUh3KyLMTMaA)**, was only about 4 km away, we decided to eat at a hotel closer to that location. Kusuma took us to a hidden gem – **[Roro’s Kitchen](https://maps.app.goo.gl/qJoHJJXo5fYEvqgJ6)**. The Indian food here was authentic, delicious, and came in generous portions. Plus, the highlight – a super playful resident cat that immediately became everyone’s favorite.
 
 <figure class="flex flex-col items-center mx-auto md:w-1/2">
-  <img src="/assets/images/posts/bali-family-vacation-2025/day-5-6/6_4.png" />
+  <img src="/assets/images/posts/bali-family-vacation-2025/day-5-6/6_6.png" />
   <figcaption class="text-center text-sm text-gray-600 dark:text-gray-400 mt-2">
     Cat at Roro's Kitchen
   </figcaption>
 </figure>
 
+**[Ulun Danu Beratan Temple](https://maps.app.goo.gl/BQJXZHUh3KyLMTMaA)**, a famous lakeside temple that appears to float on the waters of Lake Beratan. Dedicated to the goddess Dewi Danu, it was built in the 17th century as a water temple to honor the lake that sustains agriculture in central Bali. The temple’s setting against the misty mountains and lake is postcard-perfect, though of course, it was packed with tourists.
+
 <figure class="flex flex-col items-center mx-auto">
-  <img src="/assets/images/posts/bali-family-vacation-2025/day-5-6/6_5.png" />
+  <img src="/assets/images/posts/bali-family-vacation-2025/day-5-6/6_7.png" />
   <figcaption class="text-center text-sm text-gray-600 dark:text-gray-400 mt-2">
     The Ladies at Ulun Danu
   </figcaption>
 </figure>
 
-**[Ulun Danu Beratan Temple](https://maps.app.goo.gl/BQJXZHUh3KyLMTMaA)**, a famous lakeside temple that appears to float on the waters of Lake Beratan. Dedicated to the goddess Dewi Danu, it was built in the 17th century as a water temple to honor the lake that sustains agriculture in central Bali. The temple’s setting against the misty mountains and lake is postcard-perfect, though of course, it was packed with tourists.
+Ulun Danu Beratan Temple is a relatively small but very popular spot, so it was quite crowded. We wandered around, clicked plenty of photos, and ended up covering the temple fairly quickly. Once we had captured all the shots we wanted, we headed off to our final destination of the day - **[The Bali Botanical Garden](https://maps.app.goo.gl/whDSioRHLEj9TszTA)**
 
 <figure class="flex flex-col items-center mx-auto md:w-3/4">
-  <img src="/assets/images/posts/bali-family-vacation-2025/day-5-6/6_6.png" />
+  <img src="/assets/images/posts/bali-family-vacation-2025/day-5-6/6_8.png" />
   <figcaption class="text-center text-sm text-gray-600 dark:text-gray-400 mt-2">
-    Temple surrounded by Water
+    Temple surrounded by Water at Ulun Danu
   </figcaption>
 </figure>
-
-Ulun Danu Beratan Temple is a relatively small but very popular spot, so it was quite crowded. We wandered around, clicked plenty of photos, and ended up covering the temple fairly quickly. Once we had captured all the shots we wanted, we headed off to our final destination of the day - **[The Bali Botanical Garden](https://maps.app.goo.gl/whDSioRHLEj9TszTA)**
 
 The Bali Botanical Garden and Ulun Danu Beratan Temple were quite close to each other, so it was a quick drive. By the time we finished at the temple, it was around 15:30, and Google Maps said the Bali Botanical Garden closed at 16:00. We were a bit worried we wouldn’t get to see much — but that turned out to be the least of our concerns. The place is huuuge!
 
 The Bali Botanical Garden spread across 157 hectares, it’s the largest botanical garden in Indonesia. Unfortunately, we arrived late, we were allowed entry, but there weren’t any buggy services, electric cycles, or scooters to rent for getting around. There’s a lot of walking to do if you don’t have those, and it’s not all flat — there are quite a few inclines, so it can get tiring quickly. The garden itself is mellow and nice, and we spent some time wandering around before realizing that, in that short span, it felt more like a picnic spot for lunch rather than a proper sightseeing destination. Apparently, visitors can even set up tents and stay overnight, which is a unique touch, but in our case, it only reinforced the feeling that we could’ve probably skipped the garden — especially considering the long drive from there to Ubud, which was about 1.5 hours (~48 km). If I had to redo the trip, I’d probably skip it.
 
 <figure class="flex flex-col items-center mx-auto md:w-3/4">
-  <img src="/assets/images/posts/bali-family-vacation-2025/day-5-6/6_7.png" />
+  <img src="/assets/images/posts/bali-family-vacation-2025/day-5-6/6_9.png" />
   <figcaption class="text-center text-sm text-gray-600 dark:text-gray-400 mt-2">
     Kumakarana Statue at Bali Botanical Garden
   </figcaption>
