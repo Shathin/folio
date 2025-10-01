@@ -80,7 +80,7 @@ Once back on the boat, we waited for nightfall, and our trip delivered yet anoth
 With the sun finally setting, it was time for the night dive. We geared up once more and back-rolled into the water at Rocky Bottom, descending into the inky darkness. Diving at night was both eerie and calming; our torches cast narrow beams that cut through the blackness, revealing hidden treasures. We spotted crabs scuttling along the rocks, lobsters emerging from crevices, and various fish swimming around in the dark. It was surreal, as if we had entered a secret world reserved for nightfall. As we ascended, we turned off our torches for one final treat—bioluminescence. We splashed around, and tiny blue-green lights flickered around us, responding to our movements like stars in the water. It was mesmerizing, the perfect end to a day filled with unforgettable moments.
 
 <figure class="flex flex-col items-center mx-auto">
-  <img src="/assets/images/posts/lakshadweep-dive-trip-2024/lak-day-3-3.jpg" />
+  <img src="/assets/images/posts/lakshadweep-dive-trip-2024/lak-day-3-3.png" />
   <figcaption class="text-center text-sm text-gray-600 dark:text-gray-400 mt-2">
     Night Diving
   </figcaption>
@@ -100,7 +100,7 @@ Our fourth day was packed with incredible experiences, making it the most memora
 As we dove deeper, we crossed through thermoclines, where the temperature dropped from a warm 30°C at the surface to a brisk 26°C. By the time we reached 37.7 meters, the vast, dark drop-off stretched below us, giving an eerie yet captivating view. It was surreal, staring into the endless blue abyss, but we couldn’t linger long—our No Decompression Limit (NDL) allowed us only a few minutes at this depth. With one minute of NDL left, we started ascending, but the memory of that sight will stay with me forever. Returning to the shallower regions, we were once again welcomed by our trip’s mascot—the peaceful sea turtle, gliding effortlessly through the water.
 
 <figure class="flex flex-col items-center mx-auto">
-  <img src="/assets/images/posts/lakshadweep-dive-trip-2024/lak-day-4-2.jpg" />
+  <img src="/assets/images/posts/lakshadweep-dive-trip-2024/lak-day-4-2.png" />
   <figcaption class="text-center text-sm text-gray-600 dark:text-gray-400 mt-2">
     Underwater Selfie
   </figcaption>
@@ -109,7 +109,7 @@ As we dove deeper, we crossed through thermoclines, where the temperature droppe
 Our second dive was much more relaxed at a site called Shallow Point. Here, we enjoyed the colorful reef teeming with marine life: Clownfish nestled in anemones, Sweetlips, Grunts, and Bannerfish darting about. At a distance, we caught a glimpse of a Whitetip Reef Shark cruising in the deeper waters, adding an extra thrill to our dive. And, of course, the ever-present sea turtle made an appearance, as if to remind us it was still watching over our journey.
 
 <figure class="flex flex-col items-center mx-auto">
-  <img src="/assets/images/posts/lakshadweep-dive-trip-2024/lak-day-4-3.jpg" />
+  <img src="/assets/images/posts/lakshadweep-dive-trip-2024/lak-day-4-3.png" />
   <figcaption class="text-center text-sm text-gray-600 dark:text-gray-400 mt-2">
     A photo of the gang
   </figcaption>
@@ -207,7 +207,7 @@ The thrill of our first dives, the excitement of night explorations, and the joy
 A heartfelt thank you to the entire Ammathi Diving team for their unwavering support, guidance, and enthusiasm. Their expertise and passion for diving transformed our experience into something extraordinary. We look forward to returning to Lakshadweep and diving into more adventures in the future!
 
 <figure class="flex flex-col items-center mx-auto">
-  <img src="/assets/images/posts/lakshadweep-dive-trip-2024/lak-conclusion.jpg" />
+  <img src="/assets/images/posts/lakshadweep-dive-trip-2024/lak-conclusion.png" />
   <figcaption class="text-center text-sm text-gray-600 dark:text-gray-400 mt-2">
     The Dive Squad
   </figcaption>
