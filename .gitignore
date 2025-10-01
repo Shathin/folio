@@ -28,3 +28,6 @@ pnpm-debug.log*
 
 # Ignore source .heic images that can't be rendered
 **/*.heic
+
+# General catch all for ignore items in the source directory
+**/source/*
