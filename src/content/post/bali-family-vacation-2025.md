@@ -17,7 +17,7 @@ Here’s the journey, broken down day by day:
 
 1. [**Day 1 & 2 – Travel to Bali, Sightseeing in Uluwatu, Denpasar & South Kuta**](/post/bali-family-vacation-2025-day-1-2)
 2. [**Day 3 & 4 – Nusa Penida: Island Sights, AOWD Certification & Mantas**](/post/bali-family-vacation-2025-day-3-4)
-3. [**Day 5 & 6 – Karangasem & Garden Strolls**](/post/bali-family-vacation-2025-day-5-6)
+3. [**Day 5 & 6 – Palaces, Temples & Garden Escapes**](/post/bali-family-vacation-2025-day-5-6)
 4. [**Day 7 & 8 – Diving at Tulamben & Amed (My 50th Dive!)**](/post/bali-family-vacation-2025-day-7-8)
 5. [**Day 9, 10 & 11 – Bird Park, Souvenir Shopping & Farewell Bali**](/post/bali-family-vacation-2025-day-9-10-11)
 6. [**Details – Expenses & Learnings**](/post/bali-family-vacation-2025-details)
