@@ -247,7 +247,7 @@ We saw lionfish, garden eels, and a turtle (which sadly eluded my camera) among 
     </figcaption>
 </figure>
 
-The last dive was ~56 minutes, avg depth ~13.3 m, max ~25.4 m — and it was special because it fell on my birthday and marked my **50th dive**. 🎉
+The last dive was ~56 minutes, avg depth ~13.3 m, max ~25.4 m — and it was special because it fell on my birthday and marked my **50th dive**. 🎉 I said by goodbyes to Faizal (our dive guide) and my friend Pranav before heading back to Ubud with Yuta, my driver from the other day - it was going to be another 2.5 hour drive for me. 
 
 <figure class="flex flex-col items-center mx-auto">
   <img src="/assets/images/posts/bali-family-vacation-2025/day-7-8/8_6.png" />
