@@ -138,6 +138,10 @@ At the airport, we said our thanks and farewells to Kusuma — who by now felt l
   </figcaption>
 </figure>
 
+<center>Thanks for sticking with me through this detailed journey to Bali - my first international trip! If you've read all the way here, I truly appreciate your time and interest. ❤️</center>
+
+---
+
 <p style="text-align:right">
   <a href="/post/bali-family-vacation-2025">⌂ Blog Start</a> /  
   <a href="/post/bali-family-vacation-2025-details">Expense Details & Learning →</a>
