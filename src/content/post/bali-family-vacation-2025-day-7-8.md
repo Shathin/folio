@@ -39,21 +39,39 @@ The USAT Liberty started life as a US Army cargo ship and was beached at Tulambe
 
 The wreck itself was unreal — big, encrusted, and with a few rooms you can slip through. Fish life around the wreck is moderate — the structure itself is the spectacle. I was careful with my weighting this time (lesson learned in Nusa Penida), so buoyancy stayed pleasant. My dive here lasted about 53 minutes with an average depth of 16.2 m and a max depth around 27 m.
 
-<!-- TODO : Insert Youtube unlisted video embed of Drop-off wall -->
+<figure class="flex flex-col items-center mx-auto">
+   <iframe width="100%" style="aspect-ratio: 16/9;" src="https://www.youtube.com/embed/Rk9Is1brWe8?si=ORceBYiv5qadXxOc" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+    <figcaption class="text-center text-sm text-gray-600 dark:text-gray-400 mt-2">
+        Drop-off to the depth
+    </figcaption>
+</figure>
 
 Next was the Tulamben Drop-Off: a reef that slopes into a steep wall on one side and is lined with good coral gardens on the other. Like the wreck, this was a shore entry. Currents were light — they helped on the outbound leg but made the return a little more effortful. We drifted along the wall and enjoyed the corals; the dive clocked ~52 minutes, average depth ~16.1 m, max ~28.2 m.
 
-<!-- TODO : Insert Youtube unlisted video embed of Drop-off wall : Stone fish -->
+<figure class="flex flex-col items-center mx-auto">
+    <iframe width="100%" style="aspect-ratio: 16/9;" src="https://www.youtube.com/embed/iXCD7oZ4CQA?si=JHNT4EpVcq3dgMaT" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+    <figcaption class="text-center text-sm text-gray-600 dark:text-gray-400 mt-2">
+        Stonefish are absolute masters of camouflage, looking just like a lump of rock or coral while hiding in plain sight. They’re also one of the most venomous fish in the ocean—so best admired from a safe distance! 👀 Could you spot the stonefish in this video?
+    </figcaption>
+</figure>
 
 We returned to Dive Concepts for a lunch break before the last dive. Pranav introduced me to some folks doing their Open Water course — always nice to see new divers getting hooked. After food and chatter we headed to Coral Garden.
 
-<!-- TODO : Insert Youtube unlisted video embed of Coral Garden : Leaf Fish -->
+<figure class="flex flex-col items-center mx-auto">
+    <iframe width="100%" style="aspect-ratio: 16/9;" src="https://www.youtube.com/embed/PcYBUOWa-8g?si=UMVUzYoR0sZh5v1T" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+    <figcaption class="text-center text-sm text-gray-600 dark:text-gray-400 mt-2">
+        Statues and Structures at Coral Garden 
+    </figcaption>
+</figure>
 
 Coral Garden is mellow and pretty — split between a sandy area with a few submerged statues and a richer anemone garden. It was the relaxed dive I needed after lunch: about 50 minutes, avg depth ~12.3 m, max ~18.9 m.
 
-<!-- TODO : Insert Youtube unlisted video embed of Coral Garden : Statues -->
-
-<!-- TODO : Insert Youtube unlisted video embed of Coral Garden : Anemone Garden -->
+<figure class="flex flex-col items-center mx-auto">
+    <iframe width="100%" style="aspect-ratio: 16/9;" src="https://www.youtube.com/embed/xDA6XSF3muI?si=DrkQKNVMsgxnWX7j" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+    <figcaption class="text-center text-sm text-gray-600 dark:text-gray-400 mt-2">
+        Anemone Garden
+    </figcaption>
+</figure>
 
 I’d booked a hostel at the dive shop for the night and took a much-needed nap while Pranav finished some work and others did coursework. As dusk set in, Gianni (a diver I’d met that day) recommended a local spot for dinner — excellent tip.
 
@@ -143,11 +161,21 @@ Today I dove in **Amed**, a quieter coastal town near Tulamben. I packed and pla
 
 We started at **Jemuluk Wall**.
 
-<!-- TODO : Insert Youtube unlisted video embed of Jemuluk Wall -->
+<figure class="flex flex-col items-center mx-auto">
+    <iframe width="100%" style="aspect-ratio: 16/9;" src="https://www.youtube.com/embed/pDWA5b9wPeY?si=wJ8sckGWKPnF2oLn" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+    <figcaption class="text-center text-sm text-gray-600 dark:text-gray-400 mt-2">
+        Snowflake Moray Eel
+    </figcaption>
+</figure>
 
 Jemuluk Wall is a dramatic reef slope with healthy corals, gorgonians and frequent small critters — moray eels, lionfish and lots of tiny reef fish. It’s typically calm and scenic; my dive there ran about 45 minutes with an average depth ~16.2 m and a max near 29.7 m.
 
-<!-- TODO : Insert Youtube unlisted video embed of Jemuluk Wall -->
+<figure class="flex flex-col items-center mx-auto">
+    <iframe width="100%" style="aspect-ratio: 16/9;" src="https://www.youtube.com/embed/5RfcKH_FKgU?si=lKX0pcuTR8KcEF8G" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+    <figcaption class="text-center text-sm text-gray-600 dark:text-gray-400 mt-2">
+        Fishies! 🐟
+    </figcaption>
+</figure>
 
 After a surface interval we moved to Jemuluk Bay, right next door.
 
@@ -160,11 +188,21 @@ After a surface interval we moved to Jemuluk Bay, right next door.
 
 Jemuluk Bay was relaxed too — keep an eye on the sand for blue-spotted rays (they like to burrow) and practice good buoyancy so you don’t accidentally sit on someone’s home.
 
-<!-- TODO : Insert Youtube unlisted video embed of Jemuluk Bay : Sting Ray and Flounder -->
+<figure class="flex flex-col items-center mx-auto">
+    <iframe width="100%" style="aspect-ratio: 16/9;" src="https://www.youtube.com/embed/7HSkdCCWa44?si=KnOU_bSUhX8lS5zT" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+    <figcaption class="text-center text-sm text-gray-600 dark:text-gray-400 mt-2">
+        In this clip, a stingray glides gracefully across the sandy bottom while a well-camouflaged flounder blends almost perfectly into the seabed. Rays are easy to spot with their smooth wings, but flounders are masters of disguise. Could you spot both of them in the video? 👀
+    </figcaption>
+</figure>
 
 We also saw a neat little behaviour: razorfish — thin, upright fishes that hold themselves vertically in the water like tiny sentries. They bob subtly while remaining upright — weirdly hypnotic and adorable. (Tiny snorkel-geek moment: they often hover near seagrass and use their bodies to remain stable in current.) The Jemuluk Bay dive clocked ~58 minutes, avg depth ~11.6 m, max ~19.8 m.
 
-<!-- TODO : Insert Youtube unlisted video embed of Jemuluk Bay : vertically floating fishes xD (Razorfish) -->
+<figure class="flex flex-col items-center mx-auto">
+    <iframe width="100%" style="aspect-ratio: 16/9;" src="https://www.youtube.com/embed/Q4vneYZQgZE?si=Oit--jlFPMBhKzur" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+    <figcaption class="text-center text-sm text-gray-600 dark:text-gray-400 mt-2">
+        Razorfish
+    </figcaption>
+</figure>
 
 Pranav and I were starving after the second dive. **[Warung Made](https://maps.app.goo.gl/dq8herNdGMW1EbeWA)** was nearby and did the job — good local food, quick service, and we refueled for the final dive.
 
@@ -193,13 +231,21 @@ The final site was **Pyramid Point** — a shore entry, but the vehicle couldn�
 
 Pyramid Point is an artificial reef made of rectangular concrete modules stacked like small pyramids; over time corals colonise the concrete and the structures become a local fish magnet.
 
-<!-- TODO : Insert Youtube unlisted video embed of Pyramid Point : Pyramid structures -->
+<figure class="flex flex-col items-center mx-auto">
+    <iframe width="100%" style="aspect-ratio: 16/9;" src="https://www.youtube.com/embed/FEYF8wM61QU?si=yny1al9zihsTkqkS" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+    <figcaption class="text-center text-sm text-gray-600 dark:text-gray-400 mt-2">
+        The artificial pyramid structures
+    </figcaption>
+</figure>
 
-We saw diamondfish, garden eels, and a turtle (which sadly eluded my camera) among lots of other marine life.
+We saw lionfish, garden eels, and a turtle (which sadly eluded my camera) among lots of other marine life.
 
-<!-- TODO : Insert Youtube unlisted video embed of Pyramid Point : Diamond Fishes -->
-
-<!-- TODO : Insert Youtube unlisted video embed of Pyramid Point : Garden Eels -->
+<figure class="flex flex-col items-center mx-auto">
+    <iframe width="100%" style="aspect-ratio: 16/9;" src="https://www.youtube.com/embed/Dg-UMIeUs9c?si=laO2lRBY47lq5Nk3" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+    <figcaption class="text-center text-sm text-gray-600 dark:text-gray-400 mt-2">
+        Garden eels are adorably shy creatures that live half-buried in sandy burrows, swaying like little stalks in the current. The moment you get too close, they vanish into the sand in a blink. For the video I took, I had to leave my camera resting on the seabed and swim far away so they’d feel safe enough to peek back out.
+    </figcaption>
+</figure>
 
 The last dive was ~56 minutes, avg depth ~13.3 m, max ~25.4 m — and it was special because it fell on my birthday and marked my **50th dive**. 🎉
 
