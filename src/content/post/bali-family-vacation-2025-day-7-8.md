@@ -154,7 +154,7 @@ After a surface interval we moved to Jemuluk Bay, right next door.
 <figure class="flex flex-col items-center mx-auto md:w-3/4">
   <img src="/assets/images/posts/bali-family-vacation-2025/day-7-8/8_1.png" />
   <figcaption class="text-center text-sm text-gray-600 dark:text-gray-400 mt-2">
-    Coral
+    Sea Anemone
   </figcaption>
 </figure>
 
