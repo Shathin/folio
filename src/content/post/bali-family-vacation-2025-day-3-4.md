@@ -142,11 +142,14 @@ At Pura Ped the current felt slightly diagonal and downward, constantly tugging 
 
 Despite the challenge, it was an amazing experience: the dive lasted about 46 minutes, with a maximum depth of 29.1 m and an average depth of 16.8 m, and it was full of colorful corals and the unique thrill of my first drift dive.
 
-<!-- TODO : Insert gif of Pura Ped -->
-
 After the dive, we stopped at a local warung for lunch, where I had one of the best Mi Gorengs of my trip—shoutout to [Warung Putu Ariyantini](https://maps.app.goo.gl/MWE1ARZwZ2rty68H6)! Then it was time for the third and final dive of the day: **Toyapakeh** (which Kusuma later told me literally means “Salt Water”). This time, I corrected my weighting mistake, reducing my belt from 2kg to just 1kg—and the difference was massive! My buoyancy was much more controlled, and I felt so much more confident in the water. The dive lasted 52 minutes with a max depth of 28.4m. The highlight came at the end during the safety stop: instead of the usual boring wait at 5m, I spotted a turtle calmly munching on corals. I kept my distance to not disturb it, but just watching it was mesmerizing.
 
-<!-- TODO : Insert gif of Turtle -->
+<figure class="flex flex-col items-center mx-auto">
+    <iframe width="100%" style="aspect-ratio: 16/9;" src="https://www.youtube.com/embed/4Vj0WeuUyHg?si=BWpE5I_i5DZxGLc6" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+    <figcaption class="text-center text-sm text-gray-600 dark:text-gray-400 mt-2">
+        Turtle
+    </figcaption>
+</figure>
 
 Back at the dive shop, I completed my quick exam for the EAN40 course—passed with just one mistake 😂 — and officially got certified. With 44 dives complete and multiple previous courses, this also meant I was automatically awarded my **Advanced Open Water Diver** certification. A milestone achieved!
 
