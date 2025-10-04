@@ -33,7 +33,7 @@ Approximately ₹91,000 per person (non-diver) for a 11D/10N Trip to Bali.
 
 ---
 
-## Learnings
+## Learnings ✍🏼
 
 1. **Use a zero forex credit card wherever possible.**  
    The surcharge you pay on certain transactions is still cheaper than the money you lose by converting INR → USD → IDR.
@@ -106,7 +106,7 @@ Approximately ₹91,000 per person (non-diver) for a 11D/10N Trip to Bali.
 
 --
 
-## Worth Staying Hotels / Stayss
+## Worth Staying Accomodation
 
 - **[Casa Asia](https://maps.app.goo.gl/WyC8jZiMqKhhk58G9)**
 - **[Kulkul Bungalow](https://maps.app.goo.gl/pgKNZ4Nh8fXsog7A6)**

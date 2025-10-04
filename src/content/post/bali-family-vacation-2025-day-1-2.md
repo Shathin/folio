@@ -53,7 +53,7 @@ Uluwatu Temple, also known as Pura Luhur Uluwatu, is one of Bali’s six key sea
   </figcaption>
 </figure>
 
-Oh boy, Uluwatu Temple was quite an experience—both good and bad! On the good side, the temple is breathtakingly beautiful and well-maintained despite the large number of visitors. The cliffside views are stunning and picture-perfect.
+Oh boy, Uluwatu Temple was quite an experience—both good and bad! On the good side, the temple is breathtakingly beautiful and well-maintained despite the large number of visitors. The cliffside views are stunning and picture-perfect. We spent about 45 minutes just wandering around, taking photos, and soaking in the views before the Kecak Dance began.
 
 On the other hand, the crowds were heavy, especially when lining up for the Kecak Dance amphitheater. But the real challenge was the monkeys. These little troublemakers are notorious for snatching belongings—phones, sunglasses, even spectacles—sometimes just to destroy them. We were cautious, keeping everything packed away, but towards the evening we slipped up. Thinking the monkeys had disappeared in the dark, my aunt put her spectacles back on. Out of nowhere, one darted in, grabbed them, and began tearing them apart! Nothing we could do. Thankfully, she had a spare pair back at our stay.
 
@@ -64,7 +64,7 @@ On the other hand, the crowds were heavy, especially when lining up for the Keca
   </figcaption>
 </figure>
 
-After that ordeal, we settled in for the famous Kecak Dance. The Kecak Dance is one of Bali’s most iconic cultural performances. Performed at sunset against the backdrop of Uluwatu’s cliffs, it involves a large male chorus chanting “cak-cak-cak” in unison, creating a rhythmic soundtrack like an acapella. The performance usually enacts episodes from the Ramayana, with fire elements adding drama. Unlike most Balinese dances, it has no musical instruments—only the human voice and chanting. The performance was energetic, powerful, and deeply engaging—an amazing way to end our first day in Bali.
+After that ordeal, we settled in for the famous Kecak Dance. The Kecak Dance is one of Bali’s most iconic cultural performances. Performed at sunset against the backdrop of Uluwatu’s cliffs, it involves a large male chorus chanting “cak-cak-cak” in unison, creating a rhythmic soundtrack like an acapella. The performance usually enacts episodes from the Ramayana, with fire elements adding drama. Unlike most Balinese dances, it has no musical instruments—only the human voice and chanting. The performance, which lasts about an hour, was energetic, powerful, and deeply engaging—an amazing way to end our first day in Bali.
 
 <figure class="flex flex-col items-center mx-auto md:w-3/4">
   <img src="/assets/images/posts/bali-family-vacation-2025/day-1-2/1_6.png" />
@@ -108,7 +108,7 @@ The Bajra Sandhi Monument is a striking landmark built to honor the struggles of
   </figcaption>
 </figure>
 
-There were groups of schoolchildren on picnics around the park, which reminded me of my own school days. Since most tourists in Bali start their day late, we had the place almost to ourselves—quiet, peaceful, and beautifully maintained. We took our time reading the exhibits describing Bali’s hardships under Dutch and Japanese rule—eerily similar to India’s pre-independence struggles.
+There were groups of schoolchildren on picnics around the park, which reminded me of my own school days. Since most tourists in Bali start their day late, we had the place almost to ourselves—quiet, peaceful, and beautifully maintained. We took our time reading the exhibits describing Bali’s hardships under Dutch and Japanese rule—eerily similar to India’s pre-independence struggles. We spent about 1-2 hours here, which was enough time to walk through the monument, read the historical displays, and take plenty of photos without feeling rushed.
 
 <figure class="flex flex-col items-center mx-auto">
   <img src="/assets/images/posts/bali-family-vacation-2025/day-1-2/2_4.png" />
@@ -155,7 +155,7 @@ The park involves a lot of walking. Though a buggy service is available, we chos
   </figcaption>
 </figure>
 
-The massive Garuda–Vishnu statue is accessible inside up to certain floors, with displays and viewpoints. Since we were short on time, we explored only the lower levels, which still had plenty to offer. Afterward, we treated ourselves to some delicious gelato at the café on the ground floor. When the rain eased, we stepped out, took photos in front of the statue, and continued exploring. On our way down, we stumbled upon a traditional dance performance area, but unfortunately arrived just as the show ended. Still, the smaller statues of Vishnu and Lakshmi, along with the clearing skies, gave us a spectacular sunset view—perfect for photos.
+The massive Garuda–Vishnu statue is accessible inside up to certain floors, with displays and viewpoints. Since we were short on time, we explored only the lower levels, which still had plenty to offer. We spent about two hours exploring the park, which was just enough to see the main statues and viewpoints. If you decide to take the buggy from the ticket counter to the top, you might need a little less time. Afterward, we treated ourselves to some delicious gelato at the café on the ground floor. When the rain eased, we stepped out, took photos in front of the statue, and continued exploring. On our way down, we stumbled upon a traditional dance performance area, but unfortunately arrived just as the show ended. Still, the smaller statues of Vishnu and Lakshmi, along with the clearing skies, gave us a spectacular sunset view—perfect for photos.
 
 <figure class="flex flex-col items-center mx-auto">
   <img src="/assets/images/posts/bali-family-vacation-2025/day-1-2/2_9.png" />

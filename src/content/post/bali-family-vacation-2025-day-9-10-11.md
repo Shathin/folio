@@ -39,7 +39,7 @@ Bali Zoo is located in Sukawati, Gianyar Regency, spanning about 22 acres of tro
   </figcaption>
 </figure>
 
-To be honest, the zoo left me slightly underwhelmed. The enclosures felt a bit tight, and many animals seemed lethargic (perhaps habituated to constant visitors). After about an hour of wandering, fatigue from our earlier days of non-stop exploring caught up to us. We decided to pause for lunch and then revisit whether we’d push onward to **[Tegenungan Waterfall](https://maps.app.goo.gl/mbVRLWcACPemy7KS7)**.
+To be honest, the zoo left me slightly underwhelmed. The enclosures felt a bit tight, and many animals seemed lethargic (perhaps habituated to constant visitors). We spent about an hour there, which is enough for a quick walkthrough, but you could easily spend more time if you want to look closely at the animals. After wandering for a bit, fatigue from our earlier days of non-stop exploring caught up to us. We decided to pause for lunch and then revisit whether we’d push onward to **[Tegenungan Waterfall](https://maps.app.goo.gl/mbVRLWcACPemy7KS7)**.
 
 Kusuma guided us to a surprise — a pure vegetarian restaurant, **[Hare Krishna Vegetarian](https://maps.app.goo.gl/QrnDAQ5QsARfvPDq7)**. Finding such a place in Bali (where non-veg reigns) felt lucky. We learned the restaurant is run by devotees of Krishna who maintain strict vegetarianism. We ordered local-style vegetarian renditions, and the meal was satisfying and wholesome.
 

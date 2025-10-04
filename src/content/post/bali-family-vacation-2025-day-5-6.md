@@ -31,7 +31,7 @@ After a relaxed morning, fueled by some ready-to-eat food we had carried from In
   </figcaption>
 </figure>
 
-The place was wonderfully serene when we arrived around 10:00 AM – barely any tourists in sight. That calmness made our stroll through the palace gardens even more enjoyable. The surrounding greenery, manicured lawns, lotus ponds, and the mountain views in the background all created such a peaceful setting.
+The place was wonderfully serene when we arrived around 10:00 AM – barely any tourists in sight. That calmness made our stroll through the palace gardens even more enjoyable. The surrounding greenery, manicured lawns, lotus ponds, and the mountain views in the background all created such a peaceful setting. We spent about an hour here, which was perfect for a relaxed walk and plenty of photos without feeling rushed. You could easily spend more time if you just want to sit and soak in the tranquility.
 
 <figure class="flex flex-col items-center mx-auto">
   <img src="/assets/images/posts/bali-family-vacation-2025/day-5-6/5_3.png" />
@@ -51,7 +51,7 @@ After exploring the palace, we drove to our next stop – the iconic **[Tirta Ga
 
 **[Tirta Gangga](https://maps.app.goo.gl/JS7Mev6Jd7SCnD3X9)**, meaning “Water of the Ganga,” is a former royal palace built in 1948 by the same Karangasem king who built Taman Ujung. It’s famous for its water palace layout with fountains, tiered ponds, and stepping stones where you can walk across pools filled with hundreds of koi fish.
 
-As expected, the place was bustling with tourists, but surprisingly well-maintained given the footfall. Feeding the koi is a popular activity here – you buy a little packet of fish food at the entrance, and instantly dozens of giant, chubby koi swarm around you. I couldn’t help but laugh at how ridiculously fat some of the koi near the entrance were compared to the smaller ones further back. Clearly, the fish at the start of the pond get fed way more often than the poor fellows at the far end!
+As expected, the place was bustling with tourists, but surprisingly well-maintained given the footfall. Feeding the koi is a popular activity here – you buy a little packet of fish food at the entrance, and instantly dozens of giant, chubby koi swarm around you. I couldn’t help but laugh at how ridiculously fat some of the koi near the entrance were compared to the smaller ones further back. Clearly, the fish at the start of the pond get fed way more often than the poor fellows at the far end! We spent about 30-45 minutes here, which was enough to walk around, feed the fish, and take some classic Bali photos. There’s also a pool you can get into, so you might want to budget more time if you’re planning for a dip.
 
 <figure class="flex flex-col items-center mx-auto">
   <img src="/assets/images/posts/bali-family-vacation-2025/day-5-6/5_6.gif" />
@@ -71,7 +71,7 @@ After a round of exploring and photos, hunger kicked in. Luckily, there was an I
 
 Besakih is considered Bali’s “Mother Temple” – the holiest and largest Hindu temple complex on the island, located on the slopes of Mount Agung. It’s a collection of over 80 temples, with the main one dedicated to Shiva. Pilgrims come here from across Bali for ceremonies and offerings.
 
-While the temple grounds were impressive and steeped in history, I felt a little conflicted about the visit. The entry fee was expensive, though it included a guide who explained the significance of the temple. Tourists are not allowed inside the main shrines – only locals are permitted to pray within. As someone culturally a Hindu, I felt a strong curiosity about how Balinese Hinduism differs from Indian traditions, but sadly could only admire from the outside. Still, the panoramic views of Mount Agung and the temple architecture were worth the visit.
+While the temple grounds were impressive and steeped in history, I felt a little conflicted about the visit. The entry fee was expensive, though it included a guide who explained the significance of the temple. Tourists are not allowed inside the main shrines – only locals are permitted to pray within. As someone culturally a Hindu, I felt a strong curiosity about how Balinese Hinduism differs from Indian traditions, but sadly could only admire from the outside. We spent about 1-1.5 hours here, which included the guided tour, taking photos, and the walk back to the parking area. The time can vary depending on how many questions you ask your guide. Still, the panoramic views of Mount Agung and the temple architecture were worth the visit.
 
 <figure class="flex flex-col items-center mx-auto md:w-3/4">
   <img src="/assets/images/posts/bali-family-vacation-2025/day-5-6/5_8.png" />
@@ -147,7 +147,7 @@ We spent a little over an hour roaming the grounds, looking at the different flo
   </figcaption>
 </figure>
 
-**[Ulun Danu Beratan Temple](https://maps.app.goo.gl/BQJXZHUh3KyLMTMaA)**, a famous lakeside temple that appears to float on the waters of Lake Beratan. Dedicated to the goddess Dewi Danu, it was built in the 17th century as a water temple to honor the lake that sustains agriculture in central Bali. The temple’s setting against the misty mountains and lake is postcard-perfect, though of course, it was packed with tourists.
+**[Ulun Danu Beratan Temple](https://maps.app.goo.gl/BQJXZHUh3KyLMTMaA)**, a famous lakeside temple that appears to float on the waters of Lake Beratan. Dedicated to the goddess Dewi Danu, it was built in the 17th century as a water temple to honor the lake that sustains agriculture in central Bali. The temple’s setting against the misty mountains and lake is postcard-perfect, though of course, it was packed with tourists. We spent about 45 minutes here, which was enough to walk around the main areas and get some photos.
 
 <figure class="flex flex-col items-center mx-auto">
   <img src="/assets/images/posts/bali-family-vacation-2025/day-5-6/6_7.png" />

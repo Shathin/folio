@@ -44,7 +44,7 @@ Alit, a local driver, was waiting to pick us up. After paying a small entrance f
 
 Kelingking Beach is arguably the most iconic spot in Nusa Penida, famous for its cliff formation that looks like a T-Rex head jutting into the ocean. From the top, you get a breathtaking panoramic view of turquoise waters crashing against the limestone cliffs. It’s the postcard image of Nusa Penida that you’ll find everywhere—but being there in person is an entirely different experience.
 
-The main attraction for most visitors is the viewpoint at the top, where people take photos with the T-Rex-shaped cliff in the background. For me, however, one of the main reasons to visit Kelingking was to hike down to the beach itself—and that’s exactly what I did. The trek was short but intense. It took me about an hour round trip (25 minutes down, 35 minutes up). The trail is only about 1.2 km, but it’s steep, narrow, and in some parts you need to descend/ascend almost like climbing a ladder. It was exhausting but absolutely worth it—the beach at the bottom is pristine, with crystal-clear water and soft white sand. My only regret was not having enough time to swim, as my family had stayed at the top and was waiting for me. I was drenched in sweat when I climbed back up, but the view and the experience made it completely worthwhile.
+The main attraction for most visitors is the viewpoint at the top, where people take photos with the T-Rex-shaped cliff in the background. If you’re not planning to trek down, 30 minutes is more than enough time here—it’s mostly just fighting for a good spot to take a photo. For me, however, one of the main reasons to visit Kelingking was to hike down to the beach itself—and that’s exactly what I did. The trek was short but intense. It took me about 50 minutes for the round trip, but the time can vary depending on your fitness and how crowded the trail is. The trail is only about 1.2 km, but it’s steep, narrow, and in some parts you need to descend/ascend almost like climbing a ladder. It was exhausting but absolutely worth it—the beach at the bottom is pristine, with crystal-clear water and soft white sand. My only regret was not having enough time to swim, as my family had stayed at the top and was waiting for me. I was drenched in sweat when I climbed back up, but the view and the experience made it completely worthwhile.
 
 <figure class="flex flex-col items-center mx-auto">
   <img src="/assets/images/posts/bali-family-vacation-2025/day-3-4/3_4.png" />
@@ -80,7 +80,7 @@ Broken Beach (Pasih Uug) is a natural rock arch overlooking the ocean. Instead o
   </figcaption>
 </figure>
 
-The rocks here were jagged and sharp from years of erosion, so we had to be careful while walking around. There was also quite a crowd, with many visitors dressed up for the perfect Instagram shot. After exploring, clicking some pictures, and enjoying coconuts (which turned out to be massive—two were more than enough for all of us!), we headed back to the car.
+The rocks here were jagged and sharp from years of erosion, so we had to be careful while walking around. There was also quite a crowd, with many visitors dressed up for the perfect Instagram shot. We spent about 45 minutes to an hour exploring both spots. After exploring, clicking some pictures, and enjoying coconuts (which turned out to be massive—two were more than enough for all of us!), we headed back to the car.
 
 <figure class="flex flex-col items-center mx-auto">
   <img src="/assets/images/posts/bali-family-vacation-2025/day-3-4/3_8.gif" />
@@ -159,7 +159,7 @@ Meanwhile, my family had a slower, more relaxed day. After breakfast at Kulkul B
   </figcaption>
 </figure>
 
-Goa Giri Putri Temple is a unique temple inside a cave. To enter, they had to squeeze through a small hole, but inside, the atmosphere was serene and spiritual. They couldn’t stay too long due to the low-oxygen environment, but they enjoyed the visit.
+Goa Giri Putri is a unique temple located inside a massive cave. To enter, you have to squeeze through a small, narrow opening in the rock, which then opens up into a huge cavern. Inside, the air is cool and damp, and the space is large enough to hold hundreds of people. It’s an active place of worship, so it’s important to be respectful. They spent about 45 minutes here, which was enough to explore the main cave area and soak in the spiritual atmosphere.
 
 <figure class="flex flex-col items-center mx-auto">
   <img src="/assets/images/posts/bali-family-vacation-2025/day-3-4/3_15.jpg" />

@@ -131,7 +131,7 @@ Tirta Empul is an ancient water temple (founded around the 10th century) famous 
   </figcaption>
 </figure>
 
-My family didn’t have a change of clothes so they skipped the pool and its entry fee and stuck to photos. After a few snaps they moved to **[Goa Gajah](https://maps.app.goo.gl/8Cpe2fxfr9L4umxT6)**. Before entering Goa Gajah they were hungry and tried an Indian place nearby — the meal was disappointing, so they abandoned it and pressed on.
+My family didn’t have a change of clothes so they skipped the pool and its entry fee and stuck to photos. After a few snaps they moved to **[Goa Gajah](https://maps.app.goo.gl/8Cpe2fxfr9L4umxT6)**. They spent about 30 minutes here, which was enough to see the main areas without getting into the water. Before entering Goa Gajah they were hungry and tried an Indian place nearby — the meal was disappointing, so they abandoned it and pressed on.
 
 <figure class="flex flex-col items-center mx-auto md:w-3/4">
   <img src="/assets/images/posts/bali-family-vacation-2025/day-7-8/7_8.png" />
@@ -140,7 +140,7 @@ My family didn’t have a change of clothes so they skipped the pool and its ent
   </figcaption>
 </figure>
 
-Goa Gajah (the “Elephant Cave”) is an archaeological site dating back to around the 9th–11th centuries; it features a carved stone entrance with a menacing face, a small cave with Hindu and Buddhist iconography, and bathing pools that were excavated in the 1950s. The cave is atmospheric but compact — there’s a fair amount of walking and steps to reach the main spot. The surrounding terraces and souvenir stalls make it a quick stop for most visitors.
+Goa Gajah (the “Elephant Cave”) is an archaeological site dating back to around the 9th–11th centuries; it features a carved stone entrance with a menacing face, a small cave with Hindu and Buddhist iconography, and bathing pools that were excavated in the 1950s. The cave is atmospheric but compact — there’s a fair amount of walking and steps to reach the main spot. The surrounding terraces and souvenir stalls make it a quick stop for most visitors. They spent about 45 minutes to an hour here, which was enough to explore the cave and the surrounding area.
 
 <figure class="flex flex-col items-center mx-auto md:w-3/4">
   <img src="/assets/images/posts/bali-family-vacation-2025/day-7-8/7_9.png" />
@@ -247,7 +247,7 @@ We saw lionfish, garden eels, and a turtle (which sadly eluded my camera) among 
     </figcaption>
 </figure>
 
-The last dive was ~56 minutes, avg depth ~13.3 m, max ~25.4 m — and it was special because it fell on my birthday and marked my **50th dive**. 🎉 I said by goodbyes to Faizal (our dive guide) and my friend Pranav before heading back to Ubud with Yuta, my driver from the other day - it was going to be another 2.5 hour drive for me. 
+The last dive was ~56 minutes, avg depth ~13.3 m, max ~25.4 m — and it was special because it fell on my birthday and marked my **50th dive**. 🎉 I said by goodbyes to Faizal (our dive guide) and my friend Pranav before heading back to Ubud with Yuta, my driver from the other day - it was going to be another 2.5 hour drive for me.
 
 <figure class="flex flex-col items-center mx-auto">
   <img src="/assets/images/posts/bali-family-vacation-2025/day-7-8/8_6.png" />
