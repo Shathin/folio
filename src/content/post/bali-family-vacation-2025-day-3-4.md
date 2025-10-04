@@ -199,3 +199,7 @@ Our stay for the night was at **[The Forty Eight Resort, Candidasa](https://maps
     <a href="/post/bali-family-vacation-2025">⌂ Blog Start</a> / 
     <a href="/post/bali-family-vacation-2025-day-5-6">Checkout our journey on Day 5 & 6 in Bali →</a>
 </p>
+
+---
+
+> Disclaimer: All texts are personal record of the author and written with some help for the grammar and enhancements of the texts from AI!

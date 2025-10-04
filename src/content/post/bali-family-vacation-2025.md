@@ -33,4 +33,4 @@ Here’s the journey, broken down day by day:
 
 ---
 
-> Disclaimer: All texts are personal record of the author and written with some help for the grammar and enhancements of the texts from ChatGPT!
+> Disclaimer: All texts are personal record of the author and written with some help for the grammar and enhancements of the texts from AI!

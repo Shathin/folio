@@ -138,7 +138,11 @@ At the airport, we said our thanks and farewells to Kusuma — who by now felt l
   </figcaption>
 </figure>
 
-<center>Thanks for sticking with me through this detailed journey to Bali - my first international trip! If you've read all the way here, I truly appreciate your time and interest. ❤️</center>
+## Conclusion
+
+What an incredible 11 days in Bali! It was the perfect blend of adventure, culture, and family time. From the dramatic cliffs of Uluwatu to the historic shipwreck at Tulamben, every day was packed with new experiences. We woke up to stunning sunrises over Mount Batur, explored the beautiful sights of Nusa Penida, and haggled our way through the markets of Kuta. This trip was full of personal milestones, including my first international journey and my 50th scuba dive, making it a truly unforgettable adventure.
+
+Thanks for sticking with me through this detailed journey to Bali - my first international trip! If you've read all the way here, I truly appreciate your time and interest. ❤️
 
 ---
 
@@ -146,3 +150,7 @@ At the airport, we said our thanks and farewells to Kusuma — who by now felt l
   <a href="/post/bali-family-vacation-2025">⌂ Blog Start</a> /  
   <a href="/post/bali-family-vacation-2025-details">Expense Details & Learning →</a>
 </p>
+
+---
+
+> Disclaimer: All texts are personal record of the author and written with some help for the grammar and enhancements of the texts from AI!

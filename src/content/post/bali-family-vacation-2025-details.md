@@ -11,28 +11,6 @@ isSubPage: true
 
 ---
 
-## Trip Expenses (in INR)
-
-| Category                    | Amount Paid      |
-| --------------------------- | ---------------- |
-| Round Trip Flight (BLR–DPS) | ₹1,47,038.00     |
-| Food (Bali)                 | ₹29,786.86       |
-| Cab (Bali)                  | ₹53,833.00       |
-| Entry Fees                  | ₹36,576.75       |
-| Groceries (Bali)            | ₹7,345.76        |
-| Souvenir + Spa              | ₹28,914.00       |
-| Hotels                      | ₹42,243.57       |
-| To & Fro Tulamben Cab       | ₹6,860.93        |
-| Scuba Diving                | ₹33,203.48       |
-| SIM Card                    | ₹2,637.35        |
-| Visa                        | ₹12,041.00       |
-| Cab to & fro Airport        | ₹3,920.00        |
-| **Total**                   | **₹4,04,400.70** |
-
-Approximately ₹91,000 per person (non-diver) for a 11D/10N Trip to Bali.
-
----
-
 ## Learnings ✍🏼
 
 1. **Use a zero forex credit card wherever possible.**  
@@ -61,7 +39,9 @@ Approximately ₹91,000 per person (non-diver) for a 11D/10N Trip to Bali.
 
 ---
 
-## Worth the Visits ❤️
+## Sightseeing Recommendation
+
+### Worth the Visits ❤️
 
 - **[Uluwatu Temple](https://maps.app.goo.gl/rs7JDcR9D7yQD9V67)**
 - **[Bajra Sandhi Monument](https://maps.app.goo.gl/QpETug2khUBeFpez8)**
@@ -74,7 +54,7 @@ Approximately ₹91,000 per person (non-diver) for a 11D/10N Trip to Bali.
 - **[Danau Batur](https://maps.app.goo.gl/DSjsdvgeDb3Qyc8aA)**
 - **Diving at Nusa Penida, Tulamben, and Amed**
 
-## Maybe 🤔
+### Maybe 🤔
 
 - **[Goa Giri Putri, Nusa Penida](https://maps.app.goo.gl/r5tpeuJDcH9hbLzS6)**
 - **[Besakih Temple (Great Temple of Bali)](https://maps.app.goo.gl/BqyiUKRLwh1bLS3T6)**
@@ -82,7 +62,7 @@ Approximately ₹91,000 per person (non-diver) for a 11D/10N Trip to Bali.
 - **[Broken Beach](https://maps.app.goo.gl/6315qNdeKucPgLYt6)**
 - **[Angel's Billabong](https://maps.app.goo.gl/jJQ4JiaoFqfy99Qn7)**
 
-## Skip ❌
+### Skip ❌
 
 - **[Bali Botanical Garden](https://maps.app.goo.gl/iG5iuzSM2ZFuYtpV7)**
 - **[Goa Gajah](https://maps.app.goo.gl/BxrVmX2UTwinzQ196)**
@@ -93,7 +73,7 @@ Approximately ₹91,000 per person (non-diver) for a 11D/10N Trip to Bali.
 
 ---
 
-## Worth Visiting Restaurants 🍴
+## Restaurant Recommendation
 
 | Restaurant                                                                 | Cuisine / Notes                        |
 | -------------------------------------------------------------------------- | -------------------------------------- |
@@ -106,8 +86,44 @@ Approximately ₹91,000 per person (non-diver) for a 11D/10N Trip to Bali.
 
 --
 
-## Worth Staying Accomodation
+## Hotel / Accommodation Recommendation
 
-- **[Casa Asia](https://maps.app.goo.gl/WyC8jZiMqKhhk58G9)**
-- **[Kulkul Bungalow](https://maps.app.goo.gl/pgKNZ4Nh8fXsog7A6)**
-- **[Junna House](https://maps.app.goo.gl/k4D2FcsNmv77GkS88)**
+- **[Casa Asia](https://maps.app.goo.gl/WyC8jZiMqKhhk58G9)**, Uluwatu
+- **[Kulkul Bungalow](https://maps.app.goo.gl/pgKNZ4Nh8fXsog7A6)**, Nusa Penida
+- **[Junna House](https://maps.app.goo.gl/k4D2FcsNmv77GkS88)**, Ubud
+- **[Surya Camp Buahan](https://maps.app.goo.gl/p84aAf2zHrXQ2c4EA)**, Kintamani
+
+--
+
+## Services Recommendation
+
+- **Cab** : Kusuma - +62 838-5271-1453
+- **Scuba Diving**
+  - Pure Dive Resort, Nusa Penida - +62 811-3999-852
+  - Dive Concepts, Tulamben - +62 812-3684-5440
+
+---
+
+## Trip Expenses (in INR)
+
+| Category                    | Amount Paid      |
+| --------------------------- | ---------------- |
+| Round Trip Flight (BLR–DPS) | ₹1,47,038.00     |
+| Food (Bali)                 | ₹29,786.86       |
+| Cab (Bali)                  | ₹53,833.00       |
+| Entry Fees                  | ₹36,576.75       |
+| Groceries (Bali)            | ₹7,345.76        |
+| Souvenir + Spa              | ₹28,914.00       |
+| Hotels                      | ₹42,243.57       |
+| To & Fro Tulamben Cab       | ₹6,860.93        |
+| Scuba Diving                | ₹33,203.48       |
+| SIM Card                    | ₹2,637.35        |
+| Visa                        | ₹12,041.00       |
+| Cab to & fro Airport        | ₹3,920.00        |
+| **Total**                   | **₹4,04,400.70** |
+
+Approximately ₹91,000 per person (non-diver) for a 11D/10N Trip to Bali.
+
+---
+
+> Disclaimer: All texts are personal record of the author and written with some help for the grammar and enhancements of the texts from AI!

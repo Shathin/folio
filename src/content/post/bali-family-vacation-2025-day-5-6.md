@@ -184,3 +184,7 @@ That evening, we kept dinner light with fruits and bread, chatted about the past
     <a href="/post/bali-family-vacation-2025">⌂ Blog Start</a> / 
     <a href="/post/bali-family-vacation-2025-day-7-8">Checkout our journey on Day 7 & 8 in Bali →</a>
 </p>
+
+---
+
+> Disclaimer: All texts are personal record of the author and written with some help for the grammar and enhancements of the texts from AI!

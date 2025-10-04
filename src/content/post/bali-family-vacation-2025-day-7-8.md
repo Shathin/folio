@@ -306,3 +306,7 @@ Our Bali trip was winding down, but these two days gave us a perfect mix: underw
     <a href="/post/bali-family-vacation-2025">⌂ Blog Start</a> / 
     <a href="/post/bali-family-vacation-2025-day-9-10-11">Checkout our journey on Day 9, 10 & 11 in Bali →</a>
 </p>
+
+---
+
+> Disclaimer: All texts are personal record of the author and written with some help for the grammar and enhancements of the texts from AI!
