@@ -121,7 +121,7 @@ As per tradition, the crew lit a few crackers before departure — they believe 
     <iframe width="100%" style="aspect-ratio: 16/9;" src="https://www.youtube.com/embed/wym7tl_vWfI?si=3svgLdWwGebOpsjY" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 </figure>
 
-By then, the boat had already begun its journey toward the Similan Islands. Even though it was rocking slightly, I knocked out completely once I lay down. I didn’t feel a thing — slept like a log — and woke up the next morning at 05:30 without an alarm. Easily one of the best sleeps I’ve ever had.
+By then, the boat had already begun its journey toward the Similan Islands. Even though it was rocking slightly, once I laid down, I didn’t feel a thing — slept like a log — and woke up the next morning at 05:30 without an alarm. Easily one of the best sleeps I’ve ever had.
 
 <figure class="flex flex-col items-center mx-auto md:w-3/4">
   <img src="/assets/images/posts/thailand-liveaboard-dive-trip-2025/day-1/1_11.png" />
@@ -136,11 +136,144 @@ By then, the boat had already begun its journey toward the Similan Islands. Even
 
 _Date: Sunday, Nov 09, 2025_
 
+We were scheduled to do a total of **15 dives over 4 days**, starting today. For me, that meant the next four days were going to be pure happiness — doing my three favourite things on loop: **eat, sleep, and dive** xD, with my favorite people. Honestly, it doesn’t get better than that.
+
+<figure class="flex flex-col items-center mx-auto md:w-3/4">
+  <img src="/assets/images/posts/thailand-liveaboard-dive-trip-2025/day-2/2_1.png" />
+  <figcaption class="text-center text-sm text-gray-600 dark:text-gray-400 mt-2">
+    Sunrise over the horizon
+  </figcaption>
+</figure>
+
+Thanks to the solid sleep the previous night, I woke up naturally at 05:30 — no alarm needed, which is always a good sign. I freshened up and headed straight to the main deck, curious to see what the early morning had to offer. And wow. We had arrived at the Similan Islands and were anchored near Island #9. Crystal-clear blue water below, a warm amber sunrise stretching across the horizon, and incredibly fresh air — it felt unreal.
+
+<figure class="flex flex-col items-center mx-auto md:w-2/4">
+  <img src="/assets/images/posts/thailand-liveaboard-dive-trip-2025/day-2/2_2.png" />
+  <figcaption class="text-center text-sm text-gray-600 dark:text-gray-400 mt-2">
+    Crystal clear blue waters
+  </figcaption>
+</figure>
+
+[Lin](https://www.instagram.com/sea_mylifestyle/), our lead dive guide, was already awake, so we spent some time chatting while waiting for the official wake-up call. During our conversation, she mentioned that two of my friends had a pretty rough night — both had gotten seasick and ended up puking quite a bit. Thankfully, they took motion sickness tablets to keep things under control for the coming days.
+
+At 06:30, it was wake-up time for everyone. Lin and the other dive guides rang the bell, and soon everyone gathered on the main deck. This was followed by a **long, one-time dive briefing** — covering all the dos and don’ts on board and underwater. One important rule was keeping dives reasonably timed. Since we’d be doing multiple dives each day, overly long dives could cut into surface intervals and mess with the overall schedule.
+
+<figure class="flex flex-col items-center mx-auto md:w-3/4">
+  <img src="/assets/images/posts/thailand-liveaboard-dive-trip-2025/day-2/2_3.png" />
+  <figcaption class="text-center text-sm text-gray-600 dark:text-gray-400 mt-2">
+    Day 1 Plan
+  </figcaption>
+</figure>
+
+### Dive 1: Tayai Bay, Similan Islands
+
+Our first dive of the trip was at **Tayai Bay**. The first dive on a liveaboard is always a _check dive_ — the guides observe our buoyancy, comfort, and general skills before allowing cameras on subsequent dives. So, no camera for this one.
+
+That said, this dive easily had the **best visibility** of the entire day — a stunning 20–25 meters with crystal-clear water. The site itself had a sandy bottom with scattered coral patches. We spotted a moray eel, a turtle, several smaller fish, and vibrant corals.
+
+The dive lasted **~49 minutes**, with a **max depth of 23.5 m** and an **average depth of 12.7 m**. Calm, peaceful, and a perfect way to start the trip.
+
+After surfacing, we confirmed with our guide [Emmanuel (Em)](https://www.instagram.com/emmanuel.singson/) — who’s also from India — that we were cleared to bring our cameras from the next dive onward. After prepping our gear and drying off, we headed to the main deck for breakfast.
+
+<figure class="flex flex-col items-center mx-auto md:w-3/4">
+  <img src="/assets/images/posts/thailand-liveaboard-dive-trip-2025/day-2/2_4.png" />
+  <figcaption class="text-center text-sm text-gray-600 dark:text-gray-400 mt-2">
+    Forgot to click the photo of the breakfast, so here's a picture of the main deck instead
+  </figcaption>
+</figure>
+
+### Dive 2: North Point, Similan Islands
+
+<figure class="flex flex-col items-center mx-auto">
+  <img src="/assets/images/posts/thailand-liveaboard-dive-trip-2025/day-2/2_5.jpg" />
+  <figcaption class="text-center text-sm text-gray-600 dark:text-gray-400 mt-2">
+    North Point Dive Site Map (<a href="https://www.khaolakscubaadventures.com/divesite/north-point">source</a>)
+  </figcaption>
+</figure>
+
+After a relaxed surface interval and a satisfying breakfast, we geared up for Dive 2 at **North Point**, another site near Island #9. This site is known for its massive granite boulders, swim-throughs, and coral gardens.
+
+We explored several swim-throughs, weaving between rocks, and while much of the site was rocky, there were pockets full of corals and small marine life.  
+This dive lasted **~46 minutes**, with an **average depth of ~18 m** and a **max depth of 29 m**.
+
+<!-- TODO : Insert a video collage from North Point -->
+
+Post-dive routines quickly became second nature — climb back aboard, remove gear, dry up, eat, nap, chat, breathe in the sea air, repeat.
+
+### Dive 3: Three Trees, Similan Islands
+
+<figure class="flex flex-col items-center mx-auto">
+  <img src="/assets/images/posts/thailand-liveaboard-dive-trip-2025/day-2/2_6.jpg" />
+  <figcaption class="text-center text-sm text-gray-600 dark:text-gray-400 mt-2">
+    Three Tree Dive Site Map (<a href="https://www.khaolakscubaadventures.com/divesite/three-trees">source</a>)
+  </figcaption>
+</figure>
+
+The third dive took us to **Three Trees**, also near Island #9. The site gets its name from three distinct trees visible on the shoreline above. Underwater, it’s calm and forgiving — a gently sloping sandy bottom with coral patches scattered throughout.
+
+There were no dramatic sightings here, but the water was beautiful, the corals healthy, and the marine life peaceful. A very relaxing dive overall.  
+Duration was **~44 minutes**, with an **average depth of 13.9 m** and a **max depth of 23.9 m**.
+
+<!-- TODO : Insert a video collage from Three Trees -->
+
+Since we were already in the Similan region, we were allowed to visit one of the designated islands open to visitors. This was the **only time** during the liveaboard that we got to step on land. After lunch, we boarded a dinghy and headed to **Mu Ko Similan National Park** — specifically Similan Island #8. Mu Ko Similan National Park is a protected marine park in the Andaman Sea, famous for its white sandy beaches, granite rock formations, and strict conservation rules that keep the islands clean and pristine.
+
+<figure class="flex flex-col items-center mx-auto md:w-3/4">
+  <img src="/assets/images/posts/thailand-liveaboard-dive-trip-2025/day-2/2_7.png" />
+  <figcaption class="text-center text-sm text-gray-600 dark:text-gray-400 mt-2">
+    From the top of the hiking trail
+  </figcaption>
+</figure>
+
+The island was stunning — extremely clean, well maintained, no litter, no crowds, and incredibly fresh air. We walked up the hiking trail, clicked loads of photos, video-called friends back home, and just enjoyed being on solid ground for a bit. As tempting as it was to stay longer, the ocean was calling us back.
+
+<figure class="flex flex-col items-center mx-auto">
+  <img src="/assets/images/posts/thailand-liveaboard-dive-trip-2025/day-2/2_8.png" />
+  <figcaption class="text-center text-sm text-gray-600 dark:text-gray-400 mt-2">
+    Our gang with Emmanual and Ruth
+  </figcaption>
+</figure>
+
+### Dive 4: Turtle Rock, Similan Islands
+
+<figure class="flex flex-col items-center mx-auto">
+  <img src="/assets/images/posts/thailand-liveaboard-dive-trip-2025/day-2/2_9.gif" />
+  <figcaption class="text-center text-sm text-gray-600 dark:text-gray-400 mt-2">
+    Turtle Rock Site Map (<a href="https://hobo-ya-similan.com/en/similan/divesite/turtlerock_map.html">source</a>)
+  </figcaption>
+</figure>
+
+By around 17:00, we were gearing up for the final dive of the day at **Turtle Rock**. The site is named after a large rock formation that resembles a turtle when viewed from above. Underwater, it’s a mix of rugged granite, sandy patches, and coral-covered slopes.
+
+Since this was an evening dive, the underwater lighting was dim — not dark enough for torches, but gloomy enough to give the dive a slightly eerie vibe. Combined with the rocky terrain and fewer sightings, it felt mildly spooky yet calm.
+
+This was also my **first-ever day doing four dives**, and my body definitely felt it. I struggled a bit with equalisation, having to slow down, ascend slightly, equalise, and continue — mildly annoying, but all part of diving. The final dive of the day was intentionally shallow to manage nitrogen buildup.  
+Dive time was **~45 minutes**, with an **average depth of 12.7 m** and a **max depth of 19.8 m**.
+
+<!-- TODO : Insert a video collage of turtle rock -->
+
+With all four dives done, the rest of the day was simple — eat, chat, and sleep. We dried off, headed to the main deck, and enjoyed yet another delicious meal. Prajwal, being the workaholic he is, even squeezed in some work 😂. Eventually, exhaustion caught up with everyone, and we turned in early, excited for what the next day had in store.
+
+<figure class="flex flex-col items-center mx-auto md:w-3/4">
+  <img src="/assets/images/posts/thailand-liveaboard-dive-trip-2025/day-2/2_10.png" />
+  <figcaption class="text-center text-sm text-gray-600 dark:text-gray-400 mt-2">
+    Groupfie because I forgot to click the photo of the dinner plate
+  </figcaption>
+</figure>
+
 ---
 
 ## Day 3 - Diving at Similan Islands, Koh Bon and Koh Tachai
 
 _Date: Monday, Nov 10, 2025_
+
+_Dive 5: Christmas Point, Similan Islands_
+
+_Dive 6: West Ridge, Koh Bon_
+
+_Dive 7: The Dome, Koh Tachai_
+
+_Dive 8: East Reef, Koh Tachai_
 
 ---
 
@@ -148,11 +281,25 @@ _Date: Monday, Nov 10, 2025_
 
 _Date : Tuesday, Nov 11, 2025_
 
+_Dive 9: Richelieu Rock_
+
+_Dive 10: Richelieu Rock_
+
+_Dive 11: Richelieu Rock_
+
+_Dive 12: Night Dive - East Reef, Koh Tachai_
+
 ---
 
-## Day 5 - Diving at Koh Tachai, Koh Bon & The Boonsung Wreck and the end of our Liveaboard journey
+## Day 5 - Diving at Koh Bon & The Boonsung Wreck and the end of our Liveaboard journey
 
 _Date : Wednesday, Nov 12, 2025_
+
+_Dive 13: Hin Luang, Koh Bon_
+
+_Dive 14: North Ridge, Koh Bon_
+
+_Dive 15: Boonsung Wreck_
 
 ---
 
@@ -183,6 +330,13 @@ _Date : Sunday, Nov 16, 2025_
 <p style="text-align:right">
   <a href="/post/thailand-liveaboard-dive-trip-2025-details">Details - Trip Expenses, Learnings, etc. →</a>
 </p>
+
+---
+
+# References
+
+- All information about the dive site including site diagrams are sourced from : https://www.khaolakscubaadventures.com/divesite
+- Site map of Turtle Rock was source from : https://hobo-ya-similan.com/en/similan/divesite/turtlerock_map.html
 
 ---
 
