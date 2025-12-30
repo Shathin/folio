@@ -5,6 +5,7 @@ description: Journey for days 5 and 6
 dateFormatted: Sept 21, 2025
 category: travel
 isSubPage: true
+isUnderConstruction: false
 ---
 
 [⌂ Blog Start](/post/bali-family-vacation-2025) / [← Checkout our journey on Day 3 & 4 in Bali](/post/bali-family-vacation-2025-day-3-4)

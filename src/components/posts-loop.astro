@@ -22,18 +22,31 @@ const postsLoop = sortedPosts.slice(0, count).map((post) => {
   return {
     ...(post.data || {}),
     link: `/post/${post.slug}`,
+    isUnderConstruction: post.data.isUnderConstruction || false,
   };
 });
 ---
 
 {
   postsLoop.map((post) => {
+    const constructionPattern = post.isUnderConstruction
+      ? "bg-[repeating-linear-gradient(45deg,_#fbbf24_0,_#fbbf24_10px,_#000000_10px,_#000000_20px)]"
+      : "";
     return (
       <div
         class="relative border border-transparent border-dashed cursor-pointer p-7 group rounded-2xl"
         onclick={`location.href = '${post.link}'`}
       >
-        <div class="absolute inset-0 z-20 w-full h-full duration-300 ease-out bg-white border border-dashed dark:bg-neutral-950 rounded-2xl border-neutral-300 dark:border-neutral-600 group-hover:-translate-x-1 group-hover:-translate-y-1" />
+        <div
+          class={`absolute inset-0 z-20 w-full h-full duration-300 ease-out border border-dashed rounded-2xl border-neutral-300 dark:border-neutral-600 group-hover:-translate-x-1 group-hover:-translate-y-1 ${
+            post.isUnderConstruction
+              ? constructionPattern
+              : "bg-white dark:bg-neutral-950"
+          }`}
+        />
+        {post.isUnderConstruction && (
+          <div class="absolute inset-0 z-[25] w-full h-full bg-white/90 dark:bg-neutral-950/90 rounded-2xl" />
+        )}
         <div class="absolute inset-0 z-10 w-full h-full duration-300 ease-out border border-dashed rounded-2xl border-neutral-300 dark:border-neutral-600 group-hover:translate-x-1 group-hover:translate-y-1" />
         <div class="relative z-30 duration-300 ease-out group-hover:-translate-x-1 group-hover:-translate-y-1">
           <h2 class="flex items-center mb-3">

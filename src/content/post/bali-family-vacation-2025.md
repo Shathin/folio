@@ -5,6 +5,7 @@ description: This is a journal entry describing my first international vacation 
 dateFormatted: Sept 21, 2025
 category: travel
 isSubPage: false
+isUnderConstruction: false
 ---
 
 This is a personal travel journal of my very first international vacation — a family trip to Bali in June 2025 with my mom and two aunts. We wanted a mix of relaxing sightseeing, cultural experiences, and of course, my favorite hobby — scuba diving 🤿.

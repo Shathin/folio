@@ -5,6 +5,7 @@ description: Reflecting on an amazing scuba diving trip to the Lakshadweep Islan
 dateFormatted: Nov 05, 2024
 category: travel
 isSubPage: false
+isUnderConstruction: false
 ---
 
 ## Day 1: ✈️ Journey to Agatti Island and Our First Dive 🤿

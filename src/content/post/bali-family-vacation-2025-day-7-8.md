@@ -5,6 +5,7 @@ description: Two days of underwater adventures, family exploring Ubud, and a mil
 dateFormatted: Sept 21, 2025
 category: travel
 isSubPage: true
+isUnderConstruction: false
 ---
 
 [⌂ Blog Start](/post/bali-family-vacation-2025) / [← Checkout our journey on Day 5 & 6 in Bali](/post/bali-family-vacation-2025-day-5-6)

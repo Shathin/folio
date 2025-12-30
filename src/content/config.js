@@ -8,6 +8,7 @@ const postCollection = defineCollection({
     dateFormatted: z.string(),
     category: z.string(),
     isSubPage: z.boolean(),
+    isUnderConstruction: z.boolean(),
   }),
 });
 

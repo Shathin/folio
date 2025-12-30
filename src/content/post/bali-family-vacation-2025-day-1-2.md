@@ -5,6 +5,7 @@ description: Journey for days 1 and 2
 dateFormatted: Sept 21, 2025
 category: travel
 isSubPage: true
+isUnderConstruction: false
 ---
 
 [⌂ Blog Home](/post/bali-family-vacation-2025)

@@ -25,10 +25,44 @@ const { frontmatter } = Astro.props;
       </h1>
     </div>
 
-    <article
-      class="w-full max-w-2xl mx-auto mb-20 prose-sm prose px-7 lg:px-0 lg:prose-lg dark:prose-invert"
-    >
-      <slot />
-    </article>
+    {frontmatter.isUnderConstruction ? (
+      <article
+        class="w-full max-w-2xl mx-auto mb-20 px-7 lg:px-0"
+      >
+        <div class="flex flex-col items-center justify-center py-20 text-center">
+          <div class="mb-8 text-8xl">🚧</div>
+          <h2 class="mb-4 text-2xl font-bold text-neutral-900 dark:text-neutral-100">
+            Under Construction
+          </h2>
+          <p
+            id="construction-message"
+            class="text-lg text-neutral-600 dark:text-neutral-400 max-w-md"
+          >
+            This blog is currently under construction, please come back sometime in the future.
+          </p>
+        </div>
+        <script>
+          const quotes = [
+            "Thanks for stopping by. This page isn't ready yet, but it will be soon.",
+            "This page is under construction, but you're early in the best way.",
+            "Still working on turning thoughts into something worth reading.",
+            "Still underwater collecting memories. This page will surface soon.",
+            "Still unpacking memories from the road. This page will be ready soon.",
+            "Memories loading. Please check back soon.",
+          ];
+          const messageElement = document.getElementById("construction-message");
+          if (messageElement) {
+            const randomQuote = quotes[Math.floor(Math.random() * quotes.length)];
+            messageElement.textContent = randomQuote;
+          }
+        </script>
+      </article>
+    ) : (
+      <article
+        class="w-full max-w-2xl mx-auto mb-20 prose-sm prose px-7 lg:px-0 lg:prose-lg dark:prose-invert"
+      >
+        <slot />
+      </article>
+    )}
   </main>
 </Layout>

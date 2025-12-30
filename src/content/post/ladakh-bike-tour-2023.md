@@ -5,6 +5,7 @@ description: This journal entry portrays a captivating personal journey to Ladak
 dateFormatted: Jun 30, 2023
 category: travel
 isSubPage: false
+isUnderConstruction: false
 ---
 
 > This journal entry portrays a captivating personal journey to Ladakh, filled with exhilarating adventures, stunning landscapes, cultural encounters, and profound appreciation for the region's beauty and the sacrifices made by those who protect it!

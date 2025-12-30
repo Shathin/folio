@@ -5,6 +5,7 @@ description: Days 9 to 11 of our Bali adventure — zoos, souvenirs, and goodbye
 dateFormatted: Sept 21, 2025
 category: travel
 isSubPage: true
+isUnderConstruction: false
 ---
 
 [⌂ Blog Start](/post/bali-family-vacation-2025) / [← Checkout our journey on Day 7 & 8 in Bali](/post/bali-family-vacation-2025-day-7-8)

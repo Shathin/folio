@@ -5,6 +5,7 @@ description: Trip Expenses and Learnings
 dateFormatted: Nov 23, 2025
 category: travel
 isSubPage: true
+isUnderConstruction: true
 ---
 
 [⌂ Blog](/post/thailand-liveaboard-dive-trip-2025)

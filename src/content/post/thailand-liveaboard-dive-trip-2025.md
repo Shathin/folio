@@ -5,6 +5,7 @@ description: This is a journal entry describing my first dive trip on a liveaboa
 dateFormatted: Nov 23, 2025
 category: travel
 isSubPage: false
+isUnderConstruction: true
 ---
 
 ## Day 1 — Travel to Phuket, Thailand & Boarding the Manta Queen 7
