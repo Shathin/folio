@@ -103,6 +103,10 @@ isUnderConstruction: false
   - Pure Dive Resort, Nusa Penida - +62 811-3999-852
   - Dive Concepts, Tulamben - +62 812-3684-5440
 
+## Locations
+
+You check out the map which has the locations of all the places we've visited : [Bali, June 2025](https://www.google.com/maps/d/edit?mid=1amQ2FnWRLjDvLN9wiuvafYvNPOqZpHg&usp=sharing)
+
 ---
 
 ## Trip Expenses (in INR)
